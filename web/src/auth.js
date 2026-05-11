@@ -43,5 +43,5 @@ export function canDeletePublication(publication, actor) {
   if (normalized.role === "admin") {
     return true;
   }
-  return publication.owner_user_id === normalized.userId;
+  return publication.user_id === normalized.userId;
 }

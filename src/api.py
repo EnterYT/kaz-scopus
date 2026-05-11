@@ -59,10 +59,18 @@ def ensure_rbac_schema(conn: sqlite3.Connection) -> None:
     cur = conn.cursor()
     cur.execute("PRAGMA table_info(publications)")
     columns = {row["name"] for row in cur.fetchall()}
-    if "owner_user_id" not in columns:
-        cur.execute(
-            "ALTER TABLE publications ADD COLUMN owner_user_id TEXT NOT NULL DEFAULT 'legacy-user'"
-        )
+    if "user_id" not in columns:
+        cur.execute("ALTER TABLE publications ADD COLUMN user_id TEXT")
+        if "owner_user_id" in columns:
+            cur.execute(
+                """
+                UPDATE publications
+                SET user_id = COALESCE(NULLIF(owner_user_id, ''), 'seeded')
+                WHERE user_id IS NULL OR user_id = ''
+                """
+            )
+        else:
+            cur.execute("UPDATE publications SET user_id = 'seeded' WHERE user_id IS NULL OR user_id = ''")
         conn.commit()
 
 
@@ -86,7 +94,7 @@ def list_publications() -> list[dict[str, Any]]:
     cur = conn.cursor()
     cur.execute(
         """
-        SELECT id, title, year, doi, abstract, owner_user_id
+        SELECT id, title, year, doi, abstract, user_id
         FROM publications
         ORDER BY year DESC, title
         """
@@ -149,7 +157,7 @@ def create_publication(
     try:
         cur.execute(
             """
-            INSERT INTO publications (id, title, year, doi, abstract, owner_user_id)
+            INSERT INTO publications (id, title, year, doi, abstract, user_id)
             VALUES (?, ?, ?, ?, ?, ?)
             """,
             (pub_id, payload.title, payload.year, payload.doi, payload.abstract, user_id),
@@ -205,14 +213,14 @@ def delete_publication(
     conn = get_connection()
     cur = conn.cursor()
 
-    cur.execute("SELECT owner_user_id FROM publications WHERE id = ?", (publication_id,))
+    cur.execute("SELECT user_id FROM publications WHERE id = ?", (publication_id,))
     publication = cur.fetchone()
     if publication is None:
         conn.close()
         raise HTTPException(status_code=404, detail="Publication not found")
 
-    owner_user_id = publication["owner_user_id"]
-    if role != "admin" and owner_user_id != user_id:
+    publication_user_id = publication["user_id"]
+    if role != "admin" and publication_user_id != user_id:
         conn.close()
         raise HTTPException(status_code=403, detail="You can only delete your own publications")
 

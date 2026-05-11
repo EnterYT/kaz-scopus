@@ -22,7 +22,7 @@ def create_schema(conn: sqlite3.Connection) -> None:
             year INTEGER NOT NULL,
             doi TEXT UNIQUE,
             abstract TEXT,
-            owner_user_id TEXT NOT NULL DEFAULT 'seed-admin'
+            user_id TEXT NOT NULL DEFAULT 'seeded'
         );
 
         CREATE TABLE IF NOT EXISTS authors (
@@ -86,7 +86,7 @@ def build_sqlite(records: list[dict[str, Any]], db_path: Path) -> None:
     for rec in records:
         cur.execute(
             """
-            INSERT OR REPLACE INTO publications (id, title, year, doi, abstract, owner_user_id)
+            INSERT OR REPLACE INTO publications (id, title, year, doi, abstract, user_id)
             VALUES (?, ?, ?, ?, ?, ?)
             """,
             (
@@ -95,7 +95,7 @@ def build_sqlite(records: list[dict[str, Any]], db_path: Path) -> None:
                 rec["year"],
                 rec.get("doi"),
                 rec.get("abstract"),
-                rec.get("owner_user_id", "seed-admin"),
+                rec.get("user_id", rec.get("owner_user_id", "seeded")),
             ),
         )
 

@@ -57,7 +57,14 @@ In the web UI header, choose the current `User ID` and `Role`. These values are 
 - `X-User-Id`
 - `X-Role` (`user` or `admin`)
 
-Each publication stores an `owner_user_id`, set automatically to the current `X-User-Id` during creation.
+Each publication stores a `user_id`, set automatically to the current `X-User-Id` during creation.
+
+Catalog page supports sorting by:
+
+- Year: newest first
+- Year: oldest first
+- Title: A-Z
+- Title: Z-A
 
 5. Optional custom paths for ETL:
 

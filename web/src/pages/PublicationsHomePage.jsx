@@ -6,19 +6,37 @@ import { buildAuthHeaders, canDeletePublication } from "../auth.js";
 export function PublicationsHomePage() {
   const { actor } = useOutletContext();
   const [publications, setPublications] = useState([]);
+  const [sortBy, setSortBy] = useState("year-desc");
   const [page, setPage] = useState(1);
   const [pageSize, setPageSize] = useState(10);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
   const [deletingPublicationId, setDeletingPublicationId] = useState("");
 
-  const total = publications.length;
+  const sortedPublications = useMemo(() => {
+    const items = [...publications];
+    items.sort((a, b) => {
+      if (sortBy === "year-asc") {
+        return a.year - b.year || a.title.localeCompare(b.title);
+      }
+      if (sortBy === "title-asc") {
+        return a.title.localeCompare(b.title) || b.year - a.year;
+      }
+      if (sortBy === "title-desc") {
+        return b.title.localeCompare(a.title) || b.year - a.year;
+      }
+      return b.year - a.year || a.title.localeCompare(b.title);
+    });
+    return items;
+  }, [publications, sortBy]);
+
+  const total = sortedPublications.length;
   const totalPages = Math.max(1, Math.ceil(total / pageSize) || 1);
 
   const visiblePublications = useMemo(() => {
     const start = (page - 1) * pageSize;
-    return publications.slice(start, start + pageSize);
-  }, [publications, page, pageSize]);
+    return sortedPublications.slice(start, start + pageSize);
+  }, [sortedPublications, page, pageSize]);
 
   useEffect(() => {
     setPage((p) => Math.min(Math.max(1, p), totalPages));
@@ -97,6 +115,21 @@ export function PublicationsHomePage() {
                   ))}
                 </select>
               </label>
+              <label className="pagination-page-size">
+                Sort{" "}
+                <select
+                  value={sortBy}
+                  onChange={(e) => {
+                    setSortBy(e.target.value);
+                    setPage(1);
+                  }}
+                >
+                  <option value="year-desc">Year: newest first</option>
+                  <option value="year-asc">Year: oldest first</option>
+                  <option value="title-asc">Title: A-Z</option>
+                  <option value="title-desc">Title: Z-A</option>
+                </select>
+              </label>
               <div className="pagination-actions">
                 <button
                   type="button"
@@ -164,7 +197,7 @@ export function PublicationsHomePage() {
                 </p>
               ) : null}
               <p>
-                <strong>Owner:</strong> {pub.owner_user_id}
+                <strong>User ID:</strong> {pub.user_id}
               </p>
               {canDeletePublication(pub, actor) ? (
                 <button

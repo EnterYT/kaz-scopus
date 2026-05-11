@@ -115,6 +115,7 @@ def build_records(count: int) -> list[dict]:
                     f"Study {n} examines methods for {core} in Central Asian and global "
                     "scholarly datasets, with evaluation on benchmark retrieval tasks."
                 ),
+                "user_id": "seeded",
                 "venue": dict(venue),
                 "authors": [dict(a) for a in authors],
                 "keywords": list(keywords),
