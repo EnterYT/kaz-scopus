@@ -1,0 +1,1229 @@
+@prefix onto: <http://example.org/science-onto#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/resource/publication/pub-001> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2018.1001"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-001>,
+        <http://example.org/resource/author/auth-004> ;
+    onto:hasKeyword <http://example.org/resource/keyword/knowledge-graph>,
+        <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/ontology> ;
+    onto:publishedIn <http://example.org/resource/venue/international-journal-of-digital-libraries> ;
+    onto:title "Graph-based approaches to metadata harmonization for research repositories"^^xsd:string ;
+    onto:year "2018"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-002> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2019.1002"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002>,
+        <http://example.org/resource/author/auth-006> ;
+    onto:hasKeyword <http://example.org/resource/keyword/knowledge-graph>,
+        <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/workshop-on-knowledge-graphs-in-science> ;
+    onto:title "Neural approaches to entity linking in scholarly text"^^xsd:string ;
+    onto:year "2019"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-003> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2020.1003"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-003> ;
+    onto:hasKeyword <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/nlp>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/computational-linguistics-and-ai-review> ;
+    onto:title "Ontology-driven approaches to citation network analysis"^^xsd:string ;
+    onto:year "2020"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-004> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2021.1004"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-004>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/machine-learning>,
+        <http://example.org/resource/keyword/nlp>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/central-asian-journal-of-computer-science> ;
+    onto:title "Scalable approaches to topic modeling with domain ontologies"^^xsd:string ;
+    onto:year "2021"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-005> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2022.1005"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-005>,
+        <http://example.org/resource/author/auth-008>,
+        <http://example.org/resource/author/auth-009> ;
+    onto:hasKeyword <http://example.org/resource/keyword/information-retrieval>,
+        <http://example.org/resource/keyword/machine-learning>,
+        <http://example.org/resource/keyword/nlp> ;
+    onto:publishedIn <http://example.org/resource/venue/proceedings-of-ieee-bigdata> ;
+    onto:title "Federated approaches to knowledge graph construction from abstracts"^^xsd:string ;
+    onto:year "2022"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-006> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2023.1006"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-006> ;
+    onto:hasKeyword <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/information-retrieval>,
+        <http://example.org/resource/keyword/machine-learning> ;
+    onto:publishedIn <http://example.org/resource/venue/semantic-web-journal> ;
+    onto:title "Explainable approaches to semantic search over publication corpora"^^xsd:string ;
+    onto:year "2023"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-007> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2024.1007"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002>,
+        <http://example.org/resource/author/auth-007> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/information-retrieval> ;
+    onto:publishedIn <http://example.org/resource/venue/journal-of-machine-learning-research> ;
+    onto:title "Weakly supervised approaches to author disambiguation in bibliographic data"^^xsd:string ;
+    onto:year "2024"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-008> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2025.1008"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-004>,
+        <http://example.org/resource/author/auth-008> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/linked-data> ;
+    onto:publishedIn <http://example.org/resource/venue/information-systems-frontiers> ;
+    onto:title "Cross-lingual approaches to dataset discovery via linked open data"^^xsd:string ;
+    onto:year "2025"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-009> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2026.1009"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-009> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/linked-data>,
+        <http://example.org/resource/keyword/rdf> ;
+    onto:publishedIn <http://example.org/resource/venue/acm-conference-on-knowledge-discovery> ;
+    onto:title "Temporal approaches to reproducibility tracking in ML papers"^^xsd:string ;
+    onto:year "2026"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-010> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2018.1010"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-004>,
+        <http://example.org/resource/author/auth-005>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/linked-data>,
+        <http://example.org/resource/keyword/rdf>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/data---knowledge-engineering> ;
+    onto:title "Multi-modal approaches to survey summarization with LLMs"^^xsd:string ;
+    onto:year "2018"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-011> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2019.1011"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-001>,
+        <http://example.org/resource/author/auth-006> ;
+    onto:hasKeyword <http://example.org/resource/keyword/rdf>,
+        <http://example.org/resource/keyword/scientific-publications>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/international-journal-of-digital-libraries> ;
+    onto:title "Graph-based approaches to metadata harmonization for research repositories"^^xsd:string ;
+    onto:year "2019"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-012> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2020.1012"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002> ;
+    onto:hasKeyword <http://example.org/resource/keyword/scientific-publications>,
+        <http://example.org/resource/keyword/scopus>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/workshop-on-knowledge-graphs-in-science> ;
+    onto:title "Neural approaches to entity linking in scholarly text"^^xsd:string ;
+    onto:year "2020"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-013> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2021.1013"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-003>,
+        <http://example.org/resource/author/auth-006> ;
+    onto:hasKeyword <http://example.org/resource/keyword/knowledge-graph>,
+        <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/ontology> ;
+    onto:publishedIn <http://example.org/resource/venue/computational-linguistics-and-ai-review> ;
+    onto:title "Ontology-driven approaches to citation network analysis"^^xsd:string ;
+    onto:year "2021"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-014> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2022.1014"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-004>,
+        <http://example.org/resource/author/auth-008> ;
+    onto:hasKeyword <http://example.org/resource/keyword/knowledge-graph>,
+        <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/central-asian-journal-of-computer-science> ;
+    onto:title "Scalable approaches to topic modeling with domain ontologies"^^xsd:string ;
+    onto:year "2022"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-015> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2023.1015"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-001>,
+        <http://example.org/resource/author/auth-005> ;
+    onto:hasKeyword <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/nlp>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/proceedings-of-ieee-bigdata> ;
+    onto:title "Federated approaches to knowledge graph construction from abstracts"^^xsd:string ;
+    onto:year "2023"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-016> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2024.1016"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002>,
+        <http://example.org/resource/author/auth-006> ;
+    onto:hasKeyword <http://example.org/resource/keyword/machine-learning>,
+        <http://example.org/resource/keyword/nlp>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/semantic-web-journal> ;
+    onto:title "Explainable approaches to semantic search over publication corpora"^^xsd:string ;
+    onto:year "2024"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-017> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2025.1017"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-007>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/information-retrieval>,
+        <http://example.org/resource/keyword/machine-learning>,
+        <http://example.org/resource/keyword/nlp> ;
+    onto:publishedIn <http://example.org/resource/venue/journal-of-machine-learning-research> ;
+    onto:title "Weakly supervised approaches to author disambiguation in bibliographic data"^^xsd:string ;
+    onto:year "2025"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-018> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2026.1018"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-008> ;
+    onto:hasKeyword <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/information-retrieval>,
+        <http://example.org/resource/keyword/machine-learning> ;
+    onto:publishedIn <http://example.org/resource/venue/information-systems-frontiers> ;
+    onto:title "Cross-lingual approaches to dataset discovery via linked open data"^^xsd:string ;
+    onto:year "2026"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-019> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2018.1019"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-004>,
+        <http://example.org/resource/author/auth-009> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/information-retrieval> ;
+    onto:publishedIn <http://example.org/resource/venue/acm-conference-on-knowledge-discovery> ;
+    onto:title "Temporal approaches to reproducibility tracking in ML papers"^^xsd:string ;
+    onto:year "2018"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-020> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2019.1020"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-006>,
+        <http://example.org/resource/author/auth-007>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/linked-data> ;
+    onto:publishedIn <http://example.org/resource/venue/data---knowledge-engineering> ;
+    onto:title "Multi-modal approaches to survey summarization with LLMs"^^xsd:string ;
+    onto:year "2019"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-021> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2020.1021"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-001> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/linked-data>,
+        <http://example.org/resource/keyword/rdf> ;
+    onto:publishedIn <http://example.org/resource/venue/international-journal-of-digital-libraries> ;
+    onto:title "Graph-based approaches to metadata harmonization for research repositories"^^xsd:string ;
+    onto:year "2020"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-022> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2021.1022"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002>,
+        <http://example.org/resource/author/auth-006> ;
+    onto:hasKeyword <http://example.org/resource/keyword/linked-data>,
+        <http://example.org/resource/keyword/rdf>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/workshop-on-knowledge-graphs-in-science> ;
+    onto:title "Neural approaches to entity linking in scholarly text"^^xsd:string ;
+    onto:year "2021"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-023> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2022.1023"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-003>,
+        <http://example.org/resource/author/auth-008> ;
+    onto:hasKeyword <http://example.org/resource/keyword/rdf>,
+        <http://example.org/resource/keyword/scientific-publications>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/computational-linguistics-and-ai-review> ;
+    onto:title "Ontology-driven approaches to citation network analysis"^^xsd:string ;
+    onto:year "2022"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-024> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2023.1024"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-004> ;
+    onto:hasKeyword <http://example.org/resource/keyword/scientific-publications>,
+        <http://example.org/resource/keyword/scopus>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/central-asian-journal-of-computer-science> ;
+    onto:title "Scalable approaches to topic modeling with domain ontologies"^^xsd:string ;
+    onto:year "2023"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-025> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2024.1025"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-005>,
+        <http://example.org/resource/author/auth-008>,
+        <http://example.org/resource/author/auth-009> ;
+    onto:hasKeyword <http://example.org/resource/keyword/knowledge-graph>,
+        <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/ontology> ;
+    onto:publishedIn <http://example.org/resource/venue/proceedings-of-ieee-bigdata> ;
+    onto:title "Federated approaches to knowledge graph construction from abstracts"^^xsd:string ;
+    onto:year "2024"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-026> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2025.1026"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-006>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/knowledge-graph>,
+        <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/semantic-web-journal> ;
+    onto:title "Explainable approaches to semantic search over publication corpora"^^xsd:string ;
+    onto:year "2025"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-027> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2026.1027"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-007> ;
+    onto:hasKeyword <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/nlp>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/journal-of-machine-learning-research> ;
+    onto:title "Weakly supervised approaches to author disambiguation in bibliographic data"^^xsd:string ;
+    onto:year "2026"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-028> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2018.1028"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-004>,
+        <http://example.org/resource/author/auth-008> ;
+    onto:hasKeyword <http://example.org/resource/keyword/machine-learning>,
+        <http://example.org/resource/keyword/nlp>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/information-systems-frontiers> ;
+    onto:title "Cross-lingual approaches to dataset discovery via linked open data"^^xsd:string ;
+    onto:year "2018"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-029> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2019.1029"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002>,
+        <http://example.org/resource/author/auth-009> ;
+    onto:hasKeyword <http://example.org/resource/keyword/information-retrieval>,
+        <http://example.org/resource/keyword/machine-learning>,
+        <http://example.org/resource/keyword/nlp> ;
+    onto:publishedIn <http://example.org/resource/venue/acm-conference-on-knowledge-discovery> ;
+    onto:title "Temporal approaches to reproducibility tracking in ML papers"^^xsd:string ;
+    onto:year "2019"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-030> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2020.1030"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-005>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/information-retrieval>,
+        <http://example.org/resource/keyword/machine-learning> ;
+    onto:publishedIn <http://example.org/resource/venue/data---knowledge-engineering> ;
+    onto:title "Multi-modal approaches to survey summarization with LLMs"^^xsd:string ;
+    onto:year "2020"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-031> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2021.1031"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-001>,
+        <http://example.org/resource/author/auth-006> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/information-retrieval> ;
+    onto:publishedIn <http://example.org/resource/venue/international-journal-of-digital-libraries> ;
+    onto:title "Graph-based approaches to metadata harmonization for research repositories"^^xsd:string ;
+    onto:year "2021"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-032> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2022.1032"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002>,
+        <http://example.org/resource/author/auth-008> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/linked-data> ;
+    onto:publishedIn <http://example.org/resource/venue/workshop-on-knowledge-graphs-in-science> ;
+    onto:title "Neural approaches to entity linking in scholarly text"^^xsd:string ;
+    onto:year "2022"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-033> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2023.1033"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-003> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/linked-data>,
+        <http://example.org/resource/keyword/rdf> ;
+    onto:publishedIn <http://example.org/resource/venue/computational-linguistics-and-ai-review> ;
+    onto:title "Ontology-driven approaches to citation network analysis"^^xsd:string ;
+    onto:year "2023"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-034> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2024.1034"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-004>,
+        <http://example.org/resource/author/auth-008> ;
+    onto:hasKeyword <http://example.org/resource/keyword/linked-data>,
+        <http://example.org/resource/keyword/rdf>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/central-asian-journal-of-computer-science> ;
+    onto:title "Scalable approaches to topic modeling with domain ontologies"^^xsd:string ;
+    onto:year "2024"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-035> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2025.1035"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-001>,
+        <http://example.org/resource/author/auth-005>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/rdf>,
+        <http://example.org/resource/keyword/scientific-publications>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/proceedings-of-ieee-bigdata> ;
+    onto:title "Federated approaches to knowledge graph construction from abstracts"^^xsd:string ;
+    onto:year "2025"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-036> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2026.1036"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-006> ;
+    onto:hasKeyword <http://example.org/resource/keyword/scientific-publications>,
+        <http://example.org/resource/keyword/scopus>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/semantic-web-journal> ;
+    onto:title "Explainable approaches to semantic search over publication corpora"^^xsd:string ;
+    onto:year "2026"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-037> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2018.1037"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-007>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/knowledge-graph>,
+        <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/ontology> ;
+    onto:publishedIn <http://example.org/resource/venue/journal-of-machine-learning-research> ;
+    onto:title "Weakly supervised approaches to author disambiguation in bibliographic data"^^xsd:string ;
+    onto:year "2018"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-038> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2019.1038"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002>,
+        <http://example.org/resource/author/auth-008> ;
+    onto:hasKeyword <http://example.org/resource/keyword/knowledge-graph>,
+        <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/information-systems-frontiers> ;
+    onto:title "Cross-lingual approaches to dataset discovery via linked open data"^^xsd:string ;
+    onto:year "2019"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-039> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2020.1039"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-009> ;
+    onto:hasKeyword <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/nlp>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/acm-conference-on-knowledge-discovery> ;
+    onto:title "Temporal approaches to reproducibility tracking in ML papers"^^xsd:string ;
+    onto:year "2020"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-040> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2021.1040"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-006>,
+        <http://example.org/resource/author/auth-007>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/machine-learning>,
+        <http://example.org/resource/keyword/nlp>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/data---knowledge-engineering> ;
+    onto:title "Multi-modal approaches to survey summarization with LLMs"^^xsd:string ;
+    onto:year "2021"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-041> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2022.1041"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-001>,
+        <http://example.org/resource/author/auth-004> ;
+    onto:hasKeyword <http://example.org/resource/keyword/information-retrieval>,
+        <http://example.org/resource/keyword/machine-learning>,
+        <http://example.org/resource/keyword/nlp> ;
+    onto:publishedIn <http://example.org/resource/venue/international-journal-of-digital-libraries> ;
+    onto:title "Graph-based approaches to metadata harmonization for research repositories"^^xsd:string ;
+    onto:year "2022"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-042> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2023.1042"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002> ;
+    onto:hasKeyword <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/information-retrieval>,
+        <http://example.org/resource/keyword/machine-learning> ;
+    onto:publishedIn <http://example.org/resource/venue/workshop-on-knowledge-graphs-in-science> ;
+    onto:title "Neural approaches to entity linking in scholarly text"^^xsd:string ;
+    onto:year "2023"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-043> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2024.1043"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-003>,
+        <http://example.org/resource/author/auth-008> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/information-retrieval> ;
+    onto:publishedIn <http://example.org/resource/venue/computational-linguistics-and-ai-review> ;
+    onto:title "Ontology-driven approaches to citation network analysis"^^xsd:string ;
+    onto:year "2024"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-044> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2025.1044"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-004>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/linked-data> ;
+    onto:publishedIn <http://example.org/resource/venue/central-asian-journal-of-computer-science> ;
+    onto:title "Scalable approaches to topic modeling with domain ontologies"^^xsd:string ;
+    onto:year "2025"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-045> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2026.1045"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-005>,
+        <http://example.org/resource/author/auth-009> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/linked-data>,
+        <http://example.org/resource/keyword/rdf> ;
+    onto:publishedIn <http://example.org/resource/venue/proceedings-of-ieee-bigdata> ;
+    onto:title "Federated approaches to knowledge graph construction from abstracts"^^xsd:string ;
+    onto:year "2026"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-046> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2018.1046"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-006>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/linked-data>,
+        <http://example.org/resource/keyword/rdf>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/semantic-web-journal> ;
+    onto:title "Explainable approaches to semantic search over publication corpora"^^xsd:string ;
+    onto:year "2018"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-047> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2019.1047"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002>,
+        <http://example.org/resource/author/auth-007> ;
+    onto:hasKeyword <http://example.org/resource/keyword/rdf>,
+        <http://example.org/resource/keyword/scientific-publications>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/journal-of-machine-learning-research> ;
+    onto:title "Weakly supervised approaches to author disambiguation in bibliographic data"^^xsd:string ;
+    onto:year "2019"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-048> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2020.1048"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-008> ;
+    onto:hasKeyword <http://example.org/resource/keyword/scientific-publications>,
+        <http://example.org/resource/keyword/scopus>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/information-systems-frontiers> ;
+    onto:title "Cross-lingual approaches to dataset discovery via linked open data"^^xsd:string ;
+    onto:year "2020"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-049> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2021.1049"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002>,
+        <http://example.org/resource/author/auth-009> ;
+    onto:hasKeyword <http://example.org/resource/keyword/knowledge-graph>,
+        <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/ontology> ;
+    onto:publishedIn <http://example.org/resource/venue/acm-conference-on-knowledge-discovery> ;
+    onto:title "Temporal approaches to reproducibility tracking in ML papers"^^xsd:string ;
+    onto:year "2021"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-050> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2022.1050"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-004>,
+        <http://example.org/resource/author/auth-005>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/knowledge-graph>,
+        <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/data---knowledge-engineering> ;
+    onto:title "Multi-modal approaches to survey summarization with LLMs"^^xsd:string ;
+    onto:year "2022"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-051> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2023.1051"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-001> ;
+    onto:hasKeyword <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/nlp>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/international-journal-of-digital-libraries> ;
+    onto:title "Graph-based approaches to metadata harmonization for research repositories"^^xsd:string ;
+    onto:year "2023"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-052> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2024.1052"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002>,
+        <http://example.org/resource/author/auth-008> ;
+    onto:hasKeyword <http://example.org/resource/keyword/machine-learning>,
+        <http://example.org/resource/keyword/nlp>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/workshop-on-knowledge-graphs-in-science> ;
+    onto:title "Neural approaches to entity linking in scholarly text"^^xsd:string ;
+    onto:year "2024"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-053> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2025.1053"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-003>,
+        <http://example.org/resource/author/auth-006> ;
+    onto:hasKeyword <http://example.org/resource/keyword/information-retrieval>,
+        <http://example.org/resource/keyword/machine-learning>,
+        <http://example.org/resource/keyword/nlp> ;
+    onto:publishedIn <http://example.org/resource/venue/computational-linguistics-and-ai-review> ;
+    onto:title "Ontology-driven approaches to citation network analysis"^^xsd:string ;
+    onto:year "2025"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-054> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2026.1054"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-004> ;
+    onto:hasKeyword <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/information-retrieval>,
+        <http://example.org/resource/keyword/machine-learning> ;
+    onto:publishedIn <http://example.org/resource/venue/central-asian-journal-of-computer-science> ;
+    onto:title "Scalable approaches to topic modeling with domain ontologies"^^xsd:string ;
+    onto:year "2026"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-055> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2018.1055"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-001>,
+        <http://example.org/resource/author/auth-005>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/information-retrieval> ;
+    onto:publishedIn <http://example.org/resource/venue/proceedings-of-ieee-bigdata> ;
+    onto:title "Federated approaches to knowledge graph construction from abstracts"^^xsd:string ;
+    onto:year "2018"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-056> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2019.1056"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002>,
+        <http://example.org/resource/author/auth-006> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/linked-data> ;
+    onto:publishedIn <http://example.org/resource/venue/semantic-web-journal> ;
+    onto:title "Explainable approaches to semantic search over publication corpora"^^xsd:string ;
+    onto:year "2019"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-057> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2020.1057"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-007> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/linked-data>,
+        <http://example.org/resource/keyword/rdf> ;
+    onto:publishedIn <http://example.org/resource/venue/journal-of-machine-learning-research> ;
+    onto:title "Weakly supervised approaches to author disambiguation in bibliographic data"^^xsd:string ;
+    onto:year "2020"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-058> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2021.1058"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002>,
+        <http://example.org/resource/author/auth-008> ;
+    onto:hasKeyword <http://example.org/resource/keyword/linked-data>,
+        <http://example.org/resource/keyword/rdf>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/information-systems-frontiers> ;
+    onto:title "Cross-lingual approaches to dataset discovery via linked open data"^^xsd:string ;
+    onto:year "2021"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-059> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2022.1059"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-004>,
+        <http://example.org/resource/author/auth-009> ;
+    onto:hasKeyword <http://example.org/resource/keyword/rdf>,
+        <http://example.org/resource/keyword/scientific-publications>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/acm-conference-on-knowledge-discovery> ;
+    onto:title "Temporal approaches to reproducibility tracking in ML papers"^^xsd:string ;
+    onto:year "2022"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-060> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2023.1060"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-007>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/scientific-publications>,
+        <http://example.org/resource/keyword/scopus>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/data---knowledge-engineering> ;
+    onto:title "Multi-modal approaches to survey summarization with LLMs"^^xsd:string ;
+    onto:year "2023"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-061> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2024.1061"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-001>,
+        <http://example.org/resource/author/auth-004> ;
+    onto:hasKeyword <http://example.org/resource/keyword/knowledge-graph>,
+        <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/ontology> ;
+    onto:publishedIn <http://example.org/resource/venue/international-journal-of-digital-libraries> ;
+    onto:title "Graph-based approaches to metadata harmonization for research repositories"^^xsd:string ;
+    onto:year "2024"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-062> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2025.1062"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002>,
+        <http://example.org/resource/author/auth-006> ;
+    onto:hasKeyword <http://example.org/resource/keyword/knowledge-graph>,
+        <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/workshop-on-knowledge-graphs-in-science> ;
+    onto:title "Neural approaches to entity linking in scholarly text"^^xsd:string ;
+    onto:year "2025"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-063> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2026.1063"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-003> ;
+    onto:hasKeyword <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/nlp>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/computational-linguistics-and-ai-review> ;
+    onto:title "Ontology-driven approaches to citation network analysis"^^xsd:string ;
+    onto:year "2026"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-064> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2018.1064"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-004>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/machine-learning>,
+        <http://example.org/resource/keyword/nlp>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/central-asian-journal-of-computer-science> ;
+    onto:title "Scalable approaches to topic modeling with domain ontologies"^^xsd:string ;
+    onto:year "2018"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-065> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2019.1065"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-005>,
+        <http://example.org/resource/author/auth-008>,
+        <http://example.org/resource/author/auth-009> ;
+    onto:hasKeyword <http://example.org/resource/keyword/information-retrieval>,
+        <http://example.org/resource/keyword/machine-learning>,
+        <http://example.org/resource/keyword/nlp> ;
+    onto:publishedIn <http://example.org/resource/venue/proceedings-of-ieee-bigdata> ;
+    onto:title "Federated approaches to knowledge graph construction from abstracts"^^xsd:string ;
+    onto:year "2019"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-066> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2020.1066"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-006> ;
+    onto:hasKeyword <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/information-retrieval>,
+        <http://example.org/resource/keyword/machine-learning> ;
+    onto:publishedIn <http://example.org/resource/venue/semantic-web-journal> ;
+    onto:title "Explainable approaches to semantic search over publication corpora"^^xsd:string ;
+    onto:year "2020"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-067> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2021.1067"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002>,
+        <http://example.org/resource/author/auth-007> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/information-retrieval> ;
+    onto:publishedIn <http://example.org/resource/venue/journal-of-machine-learning-research> ;
+    onto:title "Weakly supervised approaches to author disambiguation in bibliographic data"^^xsd:string ;
+    onto:year "2021"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-068> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2022.1068"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-004>,
+        <http://example.org/resource/author/auth-008> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/linked-data> ;
+    onto:publishedIn <http://example.org/resource/venue/information-systems-frontiers> ;
+    onto:title "Cross-lingual approaches to dataset discovery via linked open data"^^xsd:string ;
+    onto:year "2022"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-069> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2023.1069"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-009> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/linked-data>,
+        <http://example.org/resource/keyword/rdf> ;
+    onto:publishedIn <http://example.org/resource/venue/acm-conference-on-knowledge-discovery> ;
+    onto:title "Temporal approaches to reproducibility tracking in ML papers"^^xsd:string ;
+    onto:year "2023"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-070> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2024.1070"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-004>,
+        <http://example.org/resource/author/auth-005>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/linked-data>,
+        <http://example.org/resource/keyword/rdf>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/data---knowledge-engineering> ;
+    onto:title "Multi-modal approaches to survey summarization with LLMs"^^xsd:string ;
+    onto:year "2024"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-071> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2025.1071"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-001>,
+        <http://example.org/resource/author/auth-006> ;
+    onto:hasKeyword <http://example.org/resource/keyword/rdf>,
+        <http://example.org/resource/keyword/scientific-publications>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/international-journal-of-digital-libraries> ;
+    onto:title "Graph-based approaches to metadata harmonization for research repositories"^^xsd:string ;
+    onto:year "2025"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-072> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2026.1072"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002> ;
+    onto:hasKeyword <http://example.org/resource/keyword/scientific-publications>,
+        <http://example.org/resource/keyword/scopus>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/workshop-on-knowledge-graphs-in-science> ;
+    onto:title "Neural approaches to entity linking in scholarly text"^^xsd:string ;
+    onto:year "2026"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-073> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2018.1073"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-003>,
+        <http://example.org/resource/author/auth-006> ;
+    onto:hasKeyword <http://example.org/resource/keyword/knowledge-graph>,
+        <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/ontology> ;
+    onto:publishedIn <http://example.org/resource/venue/computational-linguistics-and-ai-review> ;
+    onto:title "Ontology-driven approaches to citation network analysis"^^xsd:string ;
+    onto:year "2018"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-074> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2019.1074"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-004>,
+        <http://example.org/resource/author/auth-008> ;
+    onto:hasKeyword <http://example.org/resource/keyword/knowledge-graph>,
+        <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/central-asian-journal-of-computer-science> ;
+    onto:title "Scalable approaches to topic modeling with domain ontologies"^^xsd:string ;
+    onto:year "2019"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-075> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2020.1075"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-001>,
+        <http://example.org/resource/author/auth-005> ;
+    onto:hasKeyword <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/nlp>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/proceedings-of-ieee-bigdata> ;
+    onto:title "Federated approaches to knowledge graph construction from abstracts"^^xsd:string ;
+    onto:year "2020"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-076> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2021.1076"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002>,
+        <http://example.org/resource/author/auth-006> ;
+    onto:hasKeyword <http://example.org/resource/keyword/machine-learning>,
+        <http://example.org/resource/keyword/nlp>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/semantic-web-journal> ;
+    onto:title "Explainable approaches to semantic search over publication corpora"^^xsd:string ;
+    onto:year "2021"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-077> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2022.1077"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-007>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/information-retrieval>,
+        <http://example.org/resource/keyword/machine-learning>,
+        <http://example.org/resource/keyword/nlp> ;
+    onto:publishedIn <http://example.org/resource/venue/journal-of-machine-learning-research> ;
+    onto:title "Weakly supervised approaches to author disambiguation in bibliographic data"^^xsd:string ;
+    onto:year "2022"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-078> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2023.1078"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-008> ;
+    onto:hasKeyword <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/information-retrieval>,
+        <http://example.org/resource/keyword/machine-learning> ;
+    onto:publishedIn <http://example.org/resource/venue/information-systems-frontiers> ;
+    onto:title "Cross-lingual approaches to dataset discovery via linked open data"^^xsd:string ;
+    onto:year "2023"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-079> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2024.1079"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-004>,
+        <http://example.org/resource/author/auth-009> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/information-retrieval> ;
+    onto:publishedIn <http://example.org/resource/venue/acm-conference-on-knowledge-discovery> ;
+    onto:title "Temporal approaches to reproducibility tracking in ML papers"^^xsd:string ;
+    onto:year "2024"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-080> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2025.1080"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-006>,
+        <http://example.org/resource/author/auth-007>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/linked-data> ;
+    onto:publishedIn <http://example.org/resource/venue/data---knowledge-engineering> ;
+    onto:title "Multi-modal approaches to survey summarization with LLMs"^^xsd:string ;
+    onto:year "2025"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-081> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2026.1081"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-001> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/linked-data>,
+        <http://example.org/resource/keyword/rdf> ;
+    onto:publishedIn <http://example.org/resource/venue/international-journal-of-digital-libraries> ;
+    onto:title "Graph-based approaches to metadata harmonization for research repositories"^^xsd:string ;
+    onto:year "2026"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-082> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2018.1082"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002>,
+        <http://example.org/resource/author/auth-006> ;
+    onto:hasKeyword <http://example.org/resource/keyword/linked-data>,
+        <http://example.org/resource/keyword/rdf>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/workshop-on-knowledge-graphs-in-science> ;
+    onto:title "Neural approaches to entity linking in scholarly text"^^xsd:string ;
+    onto:year "2018"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-083> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2019.1083"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-003>,
+        <http://example.org/resource/author/auth-008> ;
+    onto:hasKeyword <http://example.org/resource/keyword/rdf>,
+        <http://example.org/resource/keyword/scientific-publications>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/computational-linguistics-and-ai-review> ;
+    onto:title "Ontology-driven approaches to citation network analysis"^^xsd:string ;
+    onto:year "2019"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-084> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2020.1084"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-004> ;
+    onto:hasKeyword <http://example.org/resource/keyword/scientific-publications>,
+        <http://example.org/resource/keyword/scopus>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/central-asian-journal-of-computer-science> ;
+    onto:title "Scalable approaches to topic modeling with domain ontologies"^^xsd:string ;
+    onto:year "2020"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-085> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2021.1085"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-005>,
+        <http://example.org/resource/author/auth-008>,
+        <http://example.org/resource/author/auth-009> ;
+    onto:hasKeyword <http://example.org/resource/keyword/knowledge-graph>,
+        <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/ontology> ;
+    onto:publishedIn <http://example.org/resource/venue/proceedings-of-ieee-bigdata> ;
+    onto:title "Federated approaches to knowledge graph construction from abstracts"^^xsd:string ;
+    onto:year "2021"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-086> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2022.1086"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-006>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/knowledge-graph>,
+        <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/semantic-web-journal> ;
+    onto:title "Explainable approaches to semantic search over publication corpora"^^xsd:string ;
+    onto:year "2022"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-087> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2023.1087"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-007> ;
+    onto:hasKeyword <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/nlp>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/journal-of-machine-learning-research> ;
+    onto:title "Weakly supervised approaches to author disambiguation in bibliographic data"^^xsd:string ;
+    onto:year "2023"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-088> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2024.1088"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-004>,
+        <http://example.org/resource/author/auth-008> ;
+    onto:hasKeyword <http://example.org/resource/keyword/machine-learning>,
+        <http://example.org/resource/keyword/nlp>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/information-systems-frontiers> ;
+    onto:title "Cross-lingual approaches to dataset discovery via linked open data"^^xsd:string ;
+    onto:year "2024"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-089> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2025.1089"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002>,
+        <http://example.org/resource/author/auth-009> ;
+    onto:hasKeyword <http://example.org/resource/keyword/information-retrieval>,
+        <http://example.org/resource/keyword/machine-learning>,
+        <http://example.org/resource/keyword/nlp> ;
+    onto:publishedIn <http://example.org/resource/venue/acm-conference-on-knowledge-discovery> ;
+    onto:title "Temporal approaches to reproducibility tracking in ML papers"^^xsd:string ;
+    onto:year "2025"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-090> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2026.1090"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-005>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/information-retrieval>,
+        <http://example.org/resource/keyword/machine-learning> ;
+    onto:publishedIn <http://example.org/resource/venue/data---knowledge-engineering> ;
+    onto:title "Multi-modal approaches to survey summarization with LLMs"^^xsd:string ;
+    onto:year "2026"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-091> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2018.1091"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-001>,
+        <http://example.org/resource/author/auth-006> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/information-retrieval> ;
+    onto:publishedIn <http://example.org/resource/venue/international-journal-of-digital-libraries> ;
+    onto:title "Graph-based approaches to metadata harmonization for research repositories"^^xsd:string ;
+    onto:year "2018"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-092> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2019.1092"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002>,
+        <http://example.org/resource/author/auth-008> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/digital-libraries>,
+        <http://example.org/resource/keyword/linked-data> ;
+    onto:publishedIn <http://example.org/resource/venue/workshop-on-knowledge-graphs-in-science> ;
+    onto:title "Neural approaches to entity linking in scholarly text"^^xsd:string ;
+    onto:year "2019"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-093> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2020.1093"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-003> ;
+    onto:hasKeyword <http://example.org/resource/keyword/bibliometrics>,
+        <http://example.org/resource/keyword/linked-data>,
+        <http://example.org/resource/keyword/rdf> ;
+    onto:publishedIn <http://example.org/resource/venue/computational-linguistics-and-ai-review> ;
+    onto:title "Ontology-driven approaches to citation network analysis"^^xsd:string ;
+    onto:year "2020"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-094> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2021.1094"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-004>,
+        <http://example.org/resource/author/auth-008> ;
+    onto:hasKeyword <http://example.org/resource/keyword/linked-data>,
+        <http://example.org/resource/keyword/rdf>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/central-asian-journal-of-computer-science> ;
+    onto:title "Scalable approaches to topic modeling with domain ontologies"^^xsd:string ;
+    onto:year "2021"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-095> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2022.1095"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-001>,
+        <http://example.org/resource/author/auth-005>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/rdf>,
+        <http://example.org/resource/keyword/scientific-publications>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/proceedings-of-ieee-bigdata> ;
+    onto:title "Federated approaches to knowledge graph construction from abstracts"^^xsd:string ;
+    onto:year "2022"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-096> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2023.1096"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-006> ;
+    onto:hasKeyword <http://example.org/resource/keyword/scientific-publications>,
+        <http://example.org/resource/keyword/scopus>,
+        <http://example.org/resource/keyword/sparql> ;
+    onto:publishedIn <http://example.org/resource/venue/semantic-web-journal> ;
+    onto:title "Explainable approaches to semantic search over publication corpora"^^xsd:string ;
+    onto:year "2023"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-097> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2024.1097"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-007>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/knowledge-graph>,
+        <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/ontology> ;
+    onto:publishedIn <http://example.org/resource/venue/journal-of-machine-learning-research> ;
+    onto:title "Weakly supervised approaches to author disambiguation in bibliographic data"^^xsd:string ;
+    onto:year "2024"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-098> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2025.1098"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-002>,
+        <http://example.org/resource/author/auth-008> ;
+    onto:hasKeyword <http://example.org/resource/keyword/knowledge-graph>,
+        <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/information-systems-frontiers> ;
+    onto:title "Cross-lingual approaches to dataset discovery via linked open data"^^xsd:string ;
+    onto:year "2025"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-099> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2026.1099"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-009> ;
+    onto:hasKeyword <http://example.org/resource/keyword/metadata>,
+        <http://example.org/resource/keyword/nlp>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/acm-conference-on-knowledge-discovery> ;
+    onto:title "Temporal approaches to reproducibility tracking in ML papers"^^xsd:string ;
+    onto:year "2026"^^xsd:gYear .
+
+<http://example.org/resource/publication/pub-100> a onto:Publication ;
+    onto:doi "10.1000/kaz-scopus.2018.1100"^^xsd:string ;
+    onto:hasAuthor <http://example.org/resource/author/auth-006>,
+        <http://example.org/resource/author/auth-007>,
+        <http://example.org/resource/author/auth-010> ;
+    onto:hasKeyword <http://example.org/resource/keyword/machine-learning>,
+        <http://example.org/resource/keyword/nlp>,
+        <http://example.org/resource/keyword/semantic-web> ;
+    onto:publishedIn <http://example.org/resource/venue/data---knowledge-engineering> ;
+    onto:title "Multi-modal approaches to survey summarization with LLMs"^^xsd:string ;
+    onto:year "2018"^^xsd:gYear .
+
+<http://example.org/resource/affiliation/al-farabi-kaznu> a onto:Affiliation ;
+    onto:title "Al-Farabi KazNU"^^xsd:string .
+
+<http://example.org/resource/affiliation/astana-it-university> a onto:Affiliation ;
+    onto:title "Astana IT University"^^xsd:string .
+
+<http://example.org/resource/affiliation/astana-medical-university> a onto:Affiliation ;
+    onto:title "Astana Medical University"^^xsd:string .
+
+<http://example.org/resource/affiliation/eurasian-national-university> a onto:Affiliation ;
+    onto:title "Eurasian National University"^^xsd:string .
+
+<http://example.org/resource/affiliation/karaganda-technical-university> a onto:Affiliation ;
+    onto:title "Karaganda Technical University"^^xsd:string .
+
+<http://example.org/resource/affiliation/kazakh-british-technical-university> a onto:Affiliation ;
+    onto:title "Kazakh-British Technical University"^^xsd:string .
+
+<http://example.org/resource/affiliation/kazakh-national-university> a onto:Affiliation ;
+    onto:title "Kazakh National University"^^xsd:string .
+
+<http://example.org/resource/affiliation/satbayev-university> a onto:Affiliation ;
+    onto:title "Satbayev University"^^xsd:string .
+
+<http://example.org/resource/affiliation/nazarbayev-university> a onto:Affiliation ;
+    onto:title "Nazarbayev University"^^xsd:string .
+
+<http://example.org/resource/keyword/scopus> a onto:Keyword ;
+    onto:title "Scopus"^^xsd:string .
+
+<http://example.org/resource/keyword/ontology> a onto:Keyword ;
+    onto:title "ontology"^^xsd:string .
+
+<http://example.org/resource/author/auth-003> a onto:Author ;
+    onto:hasAffiliation <http://example.org/resource/affiliation/nazarbayev-university> ;
+    onto:title "Madi Rysbek"^^xsd:string .
+
+<http://example.org/resource/venue/acm-conference-on-knowledge-discovery> a onto:Venue ;
+    onto:title "ACM Conference on Knowledge Discovery"^^xsd:string .
+
+<http://example.org/resource/venue/central-asian-journal-of-computer-science> a onto:Venue ;
+    onto:title "Central Asian Journal of Computer Science"^^xsd:string .
+
+<http://example.org/resource/venue/computational-linguistics-and-ai-review> a onto:Venue ;
+    onto:title "Computational Linguistics and AI Review"^^xsd:string .
+
+<http://example.org/resource/venue/data---knowledge-engineering> a onto:Venue ;
+    onto:title "Data & Knowledge Engineering"^^xsd:string .
+
+<http://example.org/resource/venue/information-systems-frontiers> a onto:Venue ;
+    onto:title "Information Systems Frontiers"^^xsd:string .
+
+<http://example.org/resource/venue/international-journal-of-digital-libraries> a onto:Venue ;
+    onto:title "International Journal of Digital Libraries"^^xsd:string .
+
+<http://example.org/resource/venue/journal-of-machine-learning-research> a onto:Venue ;
+    onto:title "Journal of Machine Learning Research"^^xsd:string .
+
+<http://example.org/resource/venue/proceedings-of-ieee-bigdata> a onto:Venue ;
+    onto:title "Proceedings of IEEE BigData"^^xsd:string .
+
+<http://example.org/resource/venue/semantic-web-journal> a onto:Venue ;
+    onto:title "Semantic Web Journal"^^xsd:string .
+
+<http://example.org/resource/venue/workshop-on-knowledge-graphs-in-science> a onto:Venue ;
+    onto:title "Workshop on Knowledge Graphs in Science"^^xsd:string .
+
+<http://example.org/resource/author/auth-001> a onto:Author ;
+    onto:hasAffiliation <http://example.org/resource/affiliation/kazakh-national-university> ;
+    onto:title "Aigerim Nurgalieva"^^xsd:string .
+
+<http://example.org/resource/author/auth-005> a onto:Author ;
+    onto:hasAffiliation <http://example.org/resource/affiliation/satbayev-university> ;
+    onto:title "Yerlan Akhmetov"^^xsd:string .
+
+<http://example.org/resource/author/auth-007> a onto:Author ;
+    onto:hasAffiliation <http://example.org/resource/affiliation/kazakh-british-technical-university> ;
+    onto:title "Rustem Abdrakhmanov"^^xsd:string .
+
+<http://example.org/resource/author/auth-009> a onto:Author ;
+    onto:hasAffiliation <http://example.org/resource/affiliation/nazarbayev-university> ;
+    onto:title "Timur Suleimenov"^^xsd:string .
+
+<http://example.org/resource/keyword/scientific-publications> a onto:Keyword ;
+    onto:title "scientific publications"^^xsd:string .
+
+<http://example.org/resource/keyword/knowledge-graph> a onto:Keyword ;
+    onto:title "knowledge graph"^^xsd:string .
+
+<http://example.org/resource/author/auth-002> a onto:Author ;
+    onto:hasAffiliation <http://example.org/resource/affiliation/astana-it-university> ;
+    onto:title "Daniyar Toleubay"^^xsd:string .
+
+<http://example.org/resource/author/auth-004> a onto:Author ;
+    onto:hasAffiliation <http://example.org/resource/affiliation/al-farabi-kaznu> ;
+    onto:title "Saule Kenzhebek"^^xsd:string .
+
+<http://example.org/resource/author/auth-010> a onto:Author ;
+    onto:hasAffiliation <http://example.org/resource/affiliation/astana-medical-university> ;
+    onto:title "Zarina Bekturova"^^xsd:string .
+
+<http://example.org/resource/author/auth-008> a onto:Author ;
+    onto:hasAffiliation <http://example.org/resource/affiliation/karaganda-technical-university> ;
+    onto:title "Gulmira Mukhanova"^^xsd:string .
+
+<http://example.org/resource/keyword/bibliometrics> a onto:Keyword ;
+    onto:title "bibliometrics"^^xsd:string .
+
+<http://example.org/resource/keyword/digital-libraries> a onto:Keyword ;
+    onto:title "digital libraries"^^xsd:string .
+
+<http://example.org/resource/keyword/information-retrieval> a onto:Keyword ;
+    onto:title "information retrieval"^^xsd:string .
+
+<http://example.org/resource/keyword/linked-data> a onto:Keyword ;
+    onto:title "linked data"^^xsd:string .
+
+<http://example.org/resource/keyword/rdf> a onto:Keyword ;
+    onto:title "RDF"^^xsd:string .
+
+<http://example.org/resource/keyword/sparql> a onto:Keyword ;
+    onto:title "SPARQL"^^xsd:string .
+
+<http://example.org/resource/author/auth-006> a onto:Author ;
+    onto:hasAffiliation <http://example.org/resource/affiliation/eurasian-national-university> ;
+    onto:title "Ainur Omarova"^^xsd:string .
+
+<http://example.org/resource/keyword/machine-learning> a onto:Keyword ;
+    onto:title "machine learning"^^xsd:string .
+
+<http://example.org/resource/keyword/nlp> a onto:Keyword ;
+    onto:title "NLP"^^xsd:string .
+
+<http://example.org/resource/keyword/metadata> a onto:Keyword ;
+    onto:title "metadata"^^xsd:string .
+
+<http://example.org/resource/keyword/semantic-web> a onto:Keyword ;
+    onto:title "semantic web"^^xsd:string .
+

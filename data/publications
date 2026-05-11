@@ -1,0 +1,2737 @@
+[
+  {
+    "id": "pub-001",
+    "title": "Graph-based approaches to metadata harmonization for research repositories",
+    "year": 2018,
+    "doi": "10.1000/kaz-scopus.2018.1001",
+    "abstract": "Study 1 examines methods for metadata harmonization for research repositories in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "International Journal of Digital Libraries",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-001",
+        "name": "Aigerim Nurgalieva",
+        "affiliation": "Kazakh National University"
+      },
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      }
+    ],
+    "keywords": [
+      "ontology",
+      "knowledge graph",
+      "metadata"
+    ]
+  },
+  {
+    "id": "pub-002",
+    "title": "Neural approaches to entity linking in scholarly text",
+    "year": 2019,
+    "doi": "10.1000/kaz-scopus.2019.1002",
+    "abstract": "Study 2 examines methods for entity linking in scholarly text in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Workshop on Knowledge Graphs in Science",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      },
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      }
+    ],
+    "keywords": [
+      "knowledge graph",
+      "metadata",
+      "semantic web"
+    ]
+  },
+  {
+    "id": "pub-003",
+    "title": "Ontology-driven approaches to citation network analysis",
+    "year": 2020,
+    "doi": "10.1000/kaz-scopus.2020.1003",
+    "abstract": "Study 3 examines methods for citation network analysis in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Computational Linguistics and AI Review",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-003",
+        "name": "Madi Rysbek",
+        "affiliation": "Nazarbayev University"
+      }
+    ],
+    "keywords": [
+      "metadata",
+      "semantic web",
+      "NLP"
+    ]
+  },
+  {
+    "id": "pub-004",
+    "title": "Scalable approaches to topic modeling with domain ontologies",
+    "year": 2021,
+    "doi": "10.1000/kaz-scopus.2021.1004",
+    "abstract": "Study 4 examines methods for topic modeling with domain ontologies in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Central Asian Journal of Computer Science",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      },
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      }
+    ],
+    "keywords": [
+      "semantic web",
+      "NLP",
+      "machine learning"
+    ]
+  },
+  {
+    "id": "pub-005",
+    "title": "Federated approaches to knowledge graph construction from abstracts",
+    "year": 2022,
+    "doi": "10.1000/kaz-scopus.2022.1005",
+    "abstract": "Study 5 examines methods for knowledge graph construction from abstracts in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Proceedings of IEEE BigData",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-005",
+        "name": "Yerlan Akhmetov",
+        "affiliation": "Satbayev University"
+      },
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      },
+      {
+        "id": "auth-009",
+        "name": "Timur Suleimenov",
+        "affiliation": "Nazarbayev University"
+      }
+    ],
+    "keywords": [
+      "NLP",
+      "machine learning",
+      "information retrieval"
+    ]
+  },
+  {
+    "id": "pub-006",
+    "title": "Explainable approaches to semantic search over publication corpora",
+    "year": 2023,
+    "doi": "10.1000/kaz-scopus.2023.1006",
+    "abstract": "Study 6 examines methods for semantic search over publication corpora in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Semantic Web Journal",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      }
+    ],
+    "keywords": [
+      "machine learning",
+      "information retrieval",
+      "digital libraries"
+    ]
+  },
+  {
+    "id": "pub-007",
+    "title": "Weakly supervised approaches to author disambiguation in bibliographic data",
+    "year": 2024,
+    "doi": "10.1000/kaz-scopus.2024.1007",
+    "abstract": "Study 7 examines methods for author disambiguation in bibliographic data in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Journal of Machine Learning Research",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-007",
+        "name": "Rustem Abdrakhmanov",
+        "affiliation": "Kazakh-British Technical University"
+      },
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      }
+    ],
+    "keywords": [
+      "information retrieval",
+      "digital libraries",
+      "bibliometrics"
+    ]
+  },
+  {
+    "id": "pub-008",
+    "title": "Cross-lingual approaches to dataset discovery via linked open data",
+    "year": 2025,
+    "doi": "10.1000/kaz-scopus.2025.1008",
+    "abstract": "Study 8 examines methods for dataset discovery via linked open data in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Information Systems Frontiers",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      },
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      }
+    ],
+    "keywords": [
+      "digital libraries",
+      "bibliometrics",
+      "linked data"
+    ]
+  },
+  {
+    "id": "pub-009",
+    "title": "Temporal approaches to reproducibility tracking in ML papers",
+    "year": 2026,
+    "doi": "10.1000/kaz-scopus.2026.1009",
+    "abstract": "Study 9 examines methods for reproducibility tracking in ML papers in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "ACM Conference on Knowledge Discovery",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-009",
+        "name": "Timur Suleimenov",
+        "affiliation": "Nazarbayev University"
+      }
+    ],
+    "keywords": [
+      "bibliometrics",
+      "linked data",
+      "RDF"
+    ]
+  },
+  {
+    "id": "pub-010",
+    "title": "Multi-modal approaches to survey summarization with LLMs",
+    "year": 2018,
+    "doi": "10.1000/kaz-scopus.2018.1010",
+    "abstract": "Study 10 examines methods for survey summarization with LLMs in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Data & Knowledge Engineering",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      },
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      },
+      {
+        "id": "auth-005",
+        "name": "Yerlan Akhmetov",
+        "affiliation": "Satbayev University"
+      }
+    ],
+    "keywords": [
+      "linked data",
+      "RDF",
+      "SPARQL"
+    ]
+  },
+  {
+    "id": "pub-011",
+    "title": "Graph-based approaches to metadata harmonization for research repositories",
+    "year": 2019,
+    "doi": "10.1000/kaz-scopus.2019.1011",
+    "abstract": "Study 11 examines methods for metadata harmonization for research repositories in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "International Journal of Digital Libraries",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-001",
+        "name": "Aigerim Nurgalieva",
+        "affiliation": "Kazakh National University"
+      },
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      }
+    ],
+    "keywords": [
+      "RDF",
+      "SPARQL",
+      "scientific publications"
+    ]
+  },
+  {
+    "id": "pub-012",
+    "title": "Neural approaches to entity linking in scholarly text",
+    "year": 2020,
+    "doi": "10.1000/kaz-scopus.2020.1012",
+    "abstract": "Study 12 examines methods for entity linking in scholarly text in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Workshop on Knowledge Graphs in Science",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      }
+    ],
+    "keywords": [
+      "SPARQL",
+      "scientific publications",
+      "Scopus"
+    ]
+  },
+  {
+    "id": "pub-013",
+    "title": "Ontology-driven approaches to citation network analysis",
+    "year": 2021,
+    "doi": "10.1000/kaz-scopus.2021.1013",
+    "abstract": "Study 13 examines methods for citation network analysis in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Computational Linguistics and AI Review",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-003",
+        "name": "Madi Rysbek",
+        "affiliation": "Nazarbayev University"
+      },
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      }
+    ],
+    "keywords": [
+      "ontology",
+      "knowledge graph",
+      "metadata"
+    ]
+  },
+  {
+    "id": "pub-014",
+    "title": "Scalable approaches to topic modeling with domain ontologies",
+    "year": 2022,
+    "doi": "10.1000/kaz-scopus.2022.1014",
+    "abstract": "Study 14 examines methods for topic modeling with domain ontologies in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Central Asian Journal of Computer Science",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      },
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      }
+    ],
+    "keywords": [
+      "knowledge graph",
+      "metadata",
+      "semantic web"
+    ]
+  },
+  {
+    "id": "pub-015",
+    "title": "Federated approaches to knowledge graph construction from abstracts",
+    "year": 2023,
+    "doi": "10.1000/kaz-scopus.2023.1015",
+    "abstract": "Study 15 examines methods for knowledge graph construction from abstracts in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Proceedings of IEEE BigData",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-005",
+        "name": "Yerlan Akhmetov",
+        "affiliation": "Satbayev University"
+      },
+      {
+        "id": "auth-001",
+        "name": "Aigerim Nurgalieva",
+        "affiliation": "Kazakh National University"
+      }
+    ],
+    "keywords": [
+      "metadata",
+      "semantic web",
+      "NLP"
+    ]
+  },
+  {
+    "id": "pub-016",
+    "title": "Explainable approaches to semantic search over publication corpora",
+    "year": 2024,
+    "doi": "10.1000/kaz-scopus.2024.1016",
+    "abstract": "Study 16 examines methods for semantic search over publication corpora in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Semantic Web Journal",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      },
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      }
+    ],
+    "keywords": [
+      "semantic web",
+      "NLP",
+      "machine learning"
+    ]
+  },
+  {
+    "id": "pub-017",
+    "title": "Weakly supervised approaches to author disambiguation in bibliographic data",
+    "year": 2025,
+    "doi": "10.1000/kaz-scopus.2025.1017",
+    "abstract": "Study 17 examines methods for author disambiguation in bibliographic data in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Journal of Machine Learning Research",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-007",
+        "name": "Rustem Abdrakhmanov",
+        "affiliation": "Kazakh-British Technical University"
+      },
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      }
+    ],
+    "keywords": [
+      "NLP",
+      "machine learning",
+      "information retrieval"
+    ]
+  },
+  {
+    "id": "pub-018",
+    "title": "Cross-lingual approaches to dataset discovery via linked open data",
+    "year": 2026,
+    "doi": "10.1000/kaz-scopus.2026.1018",
+    "abstract": "Study 18 examines methods for dataset discovery via linked open data in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Information Systems Frontiers",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      }
+    ],
+    "keywords": [
+      "machine learning",
+      "information retrieval",
+      "digital libraries"
+    ]
+  },
+  {
+    "id": "pub-019",
+    "title": "Temporal approaches to reproducibility tracking in ML papers",
+    "year": 2018,
+    "doi": "10.1000/kaz-scopus.2018.1019",
+    "abstract": "Study 19 examines methods for reproducibility tracking in ML papers in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "ACM Conference on Knowledge Discovery",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-009",
+        "name": "Timur Suleimenov",
+        "affiliation": "Nazarbayev University"
+      },
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      }
+    ],
+    "keywords": [
+      "information retrieval",
+      "digital libraries",
+      "bibliometrics"
+    ]
+  },
+  {
+    "id": "pub-020",
+    "title": "Multi-modal approaches to survey summarization with LLMs",
+    "year": 2019,
+    "doi": "10.1000/kaz-scopus.2019.1020",
+    "abstract": "Study 20 examines methods for survey summarization with LLMs in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Data & Knowledge Engineering",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      },
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      },
+      {
+        "id": "auth-007",
+        "name": "Rustem Abdrakhmanov",
+        "affiliation": "Kazakh-British Technical University"
+      }
+    ],
+    "keywords": [
+      "digital libraries",
+      "bibliometrics",
+      "linked data"
+    ]
+  },
+  {
+    "id": "pub-021",
+    "title": "Graph-based approaches to metadata harmonization for research repositories",
+    "year": 2020,
+    "doi": "10.1000/kaz-scopus.2020.1021",
+    "abstract": "Study 21 examines methods for metadata harmonization for research repositories in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "International Journal of Digital Libraries",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-001",
+        "name": "Aigerim Nurgalieva",
+        "affiliation": "Kazakh National University"
+      }
+    ],
+    "keywords": [
+      "bibliometrics",
+      "linked data",
+      "RDF"
+    ]
+  },
+  {
+    "id": "pub-022",
+    "title": "Neural approaches to entity linking in scholarly text",
+    "year": 2021,
+    "doi": "10.1000/kaz-scopus.2021.1022",
+    "abstract": "Study 22 examines methods for entity linking in scholarly text in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Workshop on Knowledge Graphs in Science",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      },
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      }
+    ],
+    "keywords": [
+      "linked data",
+      "RDF",
+      "SPARQL"
+    ]
+  },
+  {
+    "id": "pub-023",
+    "title": "Ontology-driven approaches to citation network analysis",
+    "year": 2022,
+    "doi": "10.1000/kaz-scopus.2022.1023",
+    "abstract": "Study 23 examines methods for citation network analysis in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Computational Linguistics and AI Review",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-003",
+        "name": "Madi Rysbek",
+        "affiliation": "Nazarbayev University"
+      },
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      }
+    ],
+    "keywords": [
+      "RDF",
+      "SPARQL",
+      "scientific publications"
+    ]
+  },
+  {
+    "id": "pub-024",
+    "title": "Scalable approaches to topic modeling with domain ontologies",
+    "year": 2023,
+    "doi": "10.1000/kaz-scopus.2023.1024",
+    "abstract": "Study 24 examines methods for topic modeling with domain ontologies in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Central Asian Journal of Computer Science",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      }
+    ],
+    "keywords": [
+      "SPARQL",
+      "scientific publications",
+      "Scopus"
+    ]
+  },
+  {
+    "id": "pub-025",
+    "title": "Federated approaches to knowledge graph construction from abstracts",
+    "year": 2024,
+    "doi": "10.1000/kaz-scopus.2024.1025",
+    "abstract": "Study 25 examines methods for knowledge graph construction from abstracts in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Proceedings of IEEE BigData",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-005",
+        "name": "Yerlan Akhmetov",
+        "affiliation": "Satbayev University"
+      },
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      },
+      {
+        "id": "auth-009",
+        "name": "Timur Suleimenov",
+        "affiliation": "Nazarbayev University"
+      }
+    ],
+    "keywords": [
+      "ontology",
+      "knowledge graph",
+      "metadata"
+    ]
+  },
+  {
+    "id": "pub-026",
+    "title": "Explainable approaches to semantic search over publication corpora",
+    "year": 2025,
+    "doi": "10.1000/kaz-scopus.2025.1026",
+    "abstract": "Study 26 examines methods for semantic search over publication corpora in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Semantic Web Journal",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      },
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      }
+    ],
+    "keywords": [
+      "knowledge graph",
+      "metadata",
+      "semantic web"
+    ]
+  },
+  {
+    "id": "pub-027",
+    "title": "Weakly supervised approaches to author disambiguation in bibliographic data",
+    "year": 2026,
+    "doi": "10.1000/kaz-scopus.2026.1027",
+    "abstract": "Study 27 examines methods for author disambiguation in bibliographic data in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Journal of Machine Learning Research",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-007",
+        "name": "Rustem Abdrakhmanov",
+        "affiliation": "Kazakh-British Technical University"
+      }
+    ],
+    "keywords": [
+      "metadata",
+      "semantic web",
+      "NLP"
+    ]
+  },
+  {
+    "id": "pub-028",
+    "title": "Cross-lingual approaches to dataset discovery via linked open data",
+    "year": 2018,
+    "doi": "10.1000/kaz-scopus.2018.1028",
+    "abstract": "Study 28 examines methods for dataset discovery via linked open data in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Information Systems Frontiers",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      },
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      }
+    ],
+    "keywords": [
+      "semantic web",
+      "NLP",
+      "machine learning"
+    ]
+  },
+  {
+    "id": "pub-029",
+    "title": "Temporal approaches to reproducibility tracking in ML papers",
+    "year": 2019,
+    "doi": "10.1000/kaz-scopus.2019.1029",
+    "abstract": "Study 29 examines methods for reproducibility tracking in ML papers in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "ACM Conference on Knowledge Discovery",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-009",
+        "name": "Timur Suleimenov",
+        "affiliation": "Nazarbayev University"
+      },
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      }
+    ],
+    "keywords": [
+      "NLP",
+      "machine learning",
+      "information retrieval"
+    ]
+  },
+  {
+    "id": "pub-030",
+    "title": "Multi-modal approaches to survey summarization with LLMs",
+    "year": 2020,
+    "doi": "10.1000/kaz-scopus.2020.1030",
+    "abstract": "Study 30 examines methods for survey summarization with LLMs in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Data & Knowledge Engineering",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      },
+      {
+        "id": "auth-005",
+        "name": "Yerlan Akhmetov",
+        "affiliation": "Satbayev University"
+      }
+    ],
+    "keywords": [
+      "machine learning",
+      "information retrieval",
+      "digital libraries"
+    ]
+  },
+  {
+    "id": "pub-031",
+    "title": "Graph-based approaches to metadata harmonization for research repositories",
+    "year": 2021,
+    "doi": "10.1000/kaz-scopus.2021.1031",
+    "abstract": "Study 31 examines methods for metadata harmonization for research repositories in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "International Journal of Digital Libraries",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-001",
+        "name": "Aigerim Nurgalieva",
+        "affiliation": "Kazakh National University"
+      },
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      }
+    ],
+    "keywords": [
+      "information retrieval",
+      "digital libraries",
+      "bibliometrics"
+    ]
+  },
+  {
+    "id": "pub-032",
+    "title": "Neural approaches to entity linking in scholarly text",
+    "year": 2022,
+    "doi": "10.1000/kaz-scopus.2022.1032",
+    "abstract": "Study 32 examines methods for entity linking in scholarly text in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Workshop on Knowledge Graphs in Science",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      },
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      }
+    ],
+    "keywords": [
+      "digital libraries",
+      "bibliometrics",
+      "linked data"
+    ]
+  },
+  {
+    "id": "pub-033",
+    "title": "Ontology-driven approaches to citation network analysis",
+    "year": 2023,
+    "doi": "10.1000/kaz-scopus.2023.1033",
+    "abstract": "Study 33 examines methods for citation network analysis in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Computational Linguistics and AI Review",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-003",
+        "name": "Madi Rysbek",
+        "affiliation": "Nazarbayev University"
+      }
+    ],
+    "keywords": [
+      "bibliometrics",
+      "linked data",
+      "RDF"
+    ]
+  },
+  {
+    "id": "pub-034",
+    "title": "Scalable approaches to topic modeling with domain ontologies",
+    "year": 2024,
+    "doi": "10.1000/kaz-scopus.2024.1034",
+    "abstract": "Study 34 examines methods for topic modeling with domain ontologies in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Central Asian Journal of Computer Science",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      },
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      }
+    ],
+    "keywords": [
+      "linked data",
+      "RDF",
+      "SPARQL"
+    ]
+  },
+  {
+    "id": "pub-035",
+    "title": "Federated approaches to knowledge graph construction from abstracts",
+    "year": 2025,
+    "doi": "10.1000/kaz-scopus.2025.1035",
+    "abstract": "Study 35 examines methods for knowledge graph construction from abstracts in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Proceedings of IEEE BigData",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-005",
+        "name": "Yerlan Akhmetov",
+        "affiliation": "Satbayev University"
+      },
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      },
+      {
+        "id": "auth-001",
+        "name": "Aigerim Nurgalieva",
+        "affiliation": "Kazakh National University"
+      }
+    ],
+    "keywords": [
+      "RDF",
+      "SPARQL",
+      "scientific publications"
+    ]
+  },
+  {
+    "id": "pub-036",
+    "title": "Explainable approaches to semantic search over publication corpora",
+    "year": 2026,
+    "doi": "10.1000/kaz-scopus.2026.1036",
+    "abstract": "Study 36 examines methods for semantic search over publication corpora in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Semantic Web Journal",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      }
+    ],
+    "keywords": [
+      "SPARQL",
+      "scientific publications",
+      "Scopus"
+    ]
+  },
+  {
+    "id": "pub-037",
+    "title": "Weakly supervised approaches to author disambiguation in bibliographic data",
+    "year": 2018,
+    "doi": "10.1000/kaz-scopus.2018.1037",
+    "abstract": "Study 37 examines methods for author disambiguation in bibliographic data in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Journal of Machine Learning Research",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-007",
+        "name": "Rustem Abdrakhmanov",
+        "affiliation": "Kazakh-British Technical University"
+      },
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      }
+    ],
+    "keywords": [
+      "ontology",
+      "knowledge graph",
+      "metadata"
+    ]
+  },
+  {
+    "id": "pub-038",
+    "title": "Cross-lingual approaches to dataset discovery via linked open data",
+    "year": 2019,
+    "doi": "10.1000/kaz-scopus.2019.1038",
+    "abstract": "Study 38 examines methods for dataset discovery via linked open data in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Information Systems Frontiers",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      },
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      }
+    ],
+    "keywords": [
+      "knowledge graph",
+      "metadata",
+      "semantic web"
+    ]
+  },
+  {
+    "id": "pub-039",
+    "title": "Temporal approaches to reproducibility tracking in ML papers",
+    "year": 2020,
+    "doi": "10.1000/kaz-scopus.2020.1039",
+    "abstract": "Study 39 examines methods for reproducibility tracking in ML papers in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "ACM Conference on Knowledge Discovery",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-009",
+        "name": "Timur Suleimenov",
+        "affiliation": "Nazarbayev University"
+      }
+    ],
+    "keywords": [
+      "metadata",
+      "semantic web",
+      "NLP"
+    ]
+  },
+  {
+    "id": "pub-040",
+    "title": "Multi-modal approaches to survey summarization with LLMs",
+    "year": 2021,
+    "doi": "10.1000/kaz-scopus.2021.1040",
+    "abstract": "Study 40 examines methods for survey summarization with LLMs in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Data & Knowledge Engineering",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      },
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      },
+      {
+        "id": "auth-007",
+        "name": "Rustem Abdrakhmanov",
+        "affiliation": "Kazakh-British Technical University"
+      }
+    ],
+    "keywords": [
+      "semantic web",
+      "NLP",
+      "machine learning"
+    ]
+  },
+  {
+    "id": "pub-041",
+    "title": "Graph-based approaches to metadata harmonization for research repositories",
+    "year": 2022,
+    "doi": "10.1000/kaz-scopus.2022.1041",
+    "abstract": "Study 41 examines methods for metadata harmonization for research repositories in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "International Journal of Digital Libraries",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-001",
+        "name": "Aigerim Nurgalieva",
+        "affiliation": "Kazakh National University"
+      },
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      }
+    ],
+    "keywords": [
+      "NLP",
+      "machine learning",
+      "information retrieval"
+    ]
+  },
+  {
+    "id": "pub-042",
+    "title": "Neural approaches to entity linking in scholarly text",
+    "year": 2023,
+    "doi": "10.1000/kaz-scopus.2023.1042",
+    "abstract": "Study 42 examines methods for entity linking in scholarly text in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Workshop on Knowledge Graphs in Science",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      }
+    ],
+    "keywords": [
+      "machine learning",
+      "information retrieval",
+      "digital libraries"
+    ]
+  },
+  {
+    "id": "pub-043",
+    "title": "Ontology-driven approaches to citation network analysis",
+    "year": 2024,
+    "doi": "10.1000/kaz-scopus.2024.1043",
+    "abstract": "Study 43 examines methods for citation network analysis in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Computational Linguistics and AI Review",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-003",
+        "name": "Madi Rysbek",
+        "affiliation": "Nazarbayev University"
+      },
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      }
+    ],
+    "keywords": [
+      "information retrieval",
+      "digital libraries",
+      "bibliometrics"
+    ]
+  },
+  {
+    "id": "pub-044",
+    "title": "Scalable approaches to topic modeling with domain ontologies",
+    "year": 2025,
+    "doi": "10.1000/kaz-scopus.2025.1044",
+    "abstract": "Study 44 examines methods for topic modeling with domain ontologies in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Central Asian Journal of Computer Science",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      },
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      }
+    ],
+    "keywords": [
+      "digital libraries",
+      "bibliometrics",
+      "linked data"
+    ]
+  },
+  {
+    "id": "pub-045",
+    "title": "Federated approaches to knowledge graph construction from abstracts",
+    "year": 2026,
+    "doi": "10.1000/kaz-scopus.2026.1045",
+    "abstract": "Study 45 examines methods for knowledge graph construction from abstracts in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Proceedings of IEEE BigData",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-005",
+        "name": "Yerlan Akhmetov",
+        "affiliation": "Satbayev University"
+      },
+      {
+        "id": "auth-009",
+        "name": "Timur Suleimenov",
+        "affiliation": "Nazarbayev University"
+      }
+    ],
+    "keywords": [
+      "bibliometrics",
+      "linked data",
+      "RDF"
+    ]
+  },
+  {
+    "id": "pub-046",
+    "title": "Explainable approaches to semantic search over publication corpora",
+    "year": 2018,
+    "doi": "10.1000/kaz-scopus.2018.1046",
+    "abstract": "Study 46 examines methods for semantic search over publication corpora in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Semantic Web Journal",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      },
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      }
+    ],
+    "keywords": [
+      "linked data",
+      "RDF",
+      "SPARQL"
+    ]
+  },
+  {
+    "id": "pub-047",
+    "title": "Weakly supervised approaches to author disambiguation in bibliographic data",
+    "year": 2019,
+    "doi": "10.1000/kaz-scopus.2019.1047",
+    "abstract": "Study 47 examines methods for author disambiguation in bibliographic data in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Journal of Machine Learning Research",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-007",
+        "name": "Rustem Abdrakhmanov",
+        "affiliation": "Kazakh-British Technical University"
+      },
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      }
+    ],
+    "keywords": [
+      "RDF",
+      "SPARQL",
+      "scientific publications"
+    ]
+  },
+  {
+    "id": "pub-048",
+    "title": "Cross-lingual approaches to dataset discovery via linked open data",
+    "year": 2020,
+    "doi": "10.1000/kaz-scopus.2020.1048",
+    "abstract": "Study 48 examines methods for dataset discovery via linked open data in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Information Systems Frontiers",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      }
+    ],
+    "keywords": [
+      "SPARQL",
+      "scientific publications",
+      "Scopus"
+    ]
+  },
+  {
+    "id": "pub-049",
+    "title": "Temporal approaches to reproducibility tracking in ML papers",
+    "year": 2021,
+    "doi": "10.1000/kaz-scopus.2021.1049",
+    "abstract": "Study 49 examines methods for reproducibility tracking in ML papers in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "ACM Conference on Knowledge Discovery",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-009",
+        "name": "Timur Suleimenov",
+        "affiliation": "Nazarbayev University"
+      },
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      }
+    ],
+    "keywords": [
+      "ontology",
+      "knowledge graph",
+      "metadata"
+    ]
+  },
+  {
+    "id": "pub-050",
+    "title": "Multi-modal approaches to survey summarization with LLMs",
+    "year": 2022,
+    "doi": "10.1000/kaz-scopus.2022.1050",
+    "abstract": "Study 50 examines methods for survey summarization with LLMs in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Data & Knowledge Engineering",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      },
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      },
+      {
+        "id": "auth-005",
+        "name": "Yerlan Akhmetov",
+        "affiliation": "Satbayev University"
+      }
+    ],
+    "keywords": [
+      "knowledge graph",
+      "metadata",
+      "semantic web"
+    ]
+  },
+  {
+    "id": "pub-051",
+    "title": "Graph-based approaches to metadata harmonization for research repositories",
+    "year": 2023,
+    "doi": "10.1000/kaz-scopus.2023.1051",
+    "abstract": "Study 51 examines methods for metadata harmonization for research repositories in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "International Journal of Digital Libraries",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-001",
+        "name": "Aigerim Nurgalieva",
+        "affiliation": "Kazakh National University"
+      }
+    ],
+    "keywords": [
+      "metadata",
+      "semantic web",
+      "NLP"
+    ]
+  },
+  {
+    "id": "pub-052",
+    "title": "Neural approaches to entity linking in scholarly text",
+    "year": 2024,
+    "doi": "10.1000/kaz-scopus.2024.1052",
+    "abstract": "Study 52 examines methods for entity linking in scholarly text in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Workshop on Knowledge Graphs in Science",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      },
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      }
+    ],
+    "keywords": [
+      "semantic web",
+      "NLP",
+      "machine learning"
+    ]
+  },
+  {
+    "id": "pub-053",
+    "title": "Ontology-driven approaches to citation network analysis",
+    "year": 2025,
+    "doi": "10.1000/kaz-scopus.2025.1053",
+    "abstract": "Study 53 examines methods for citation network analysis in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Computational Linguistics and AI Review",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-003",
+        "name": "Madi Rysbek",
+        "affiliation": "Nazarbayev University"
+      },
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      }
+    ],
+    "keywords": [
+      "NLP",
+      "machine learning",
+      "information retrieval"
+    ]
+  },
+  {
+    "id": "pub-054",
+    "title": "Scalable approaches to topic modeling with domain ontologies",
+    "year": 2026,
+    "doi": "10.1000/kaz-scopus.2026.1054",
+    "abstract": "Study 54 examines methods for topic modeling with domain ontologies in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Central Asian Journal of Computer Science",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      }
+    ],
+    "keywords": [
+      "machine learning",
+      "information retrieval",
+      "digital libraries"
+    ]
+  },
+  {
+    "id": "pub-055",
+    "title": "Federated approaches to knowledge graph construction from abstracts",
+    "year": 2018,
+    "doi": "10.1000/kaz-scopus.2018.1055",
+    "abstract": "Study 55 examines methods for knowledge graph construction from abstracts in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Proceedings of IEEE BigData",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-005",
+        "name": "Yerlan Akhmetov",
+        "affiliation": "Satbayev University"
+      },
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      },
+      {
+        "id": "auth-001",
+        "name": "Aigerim Nurgalieva",
+        "affiliation": "Kazakh National University"
+      }
+    ],
+    "keywords": [
+      "information retrieval",
+      "digital libraries",
+      "bibliometrics"
+    ]
+  },
+  {
+    "id": "pub-056",
+    "title": "Explainable approaches to semantic search over publication corpora",
+    "year": 2019,
+    "doi": "10.1000/kaz-scopus.2019.1056",
+    "abstract": "Study 56 examines methods for semantic search over publication corpora in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Semantic Web Journal",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      },
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      }
+    ],
+    "keywords": [
+      "digital libraries",
+      "bibliometrics",
+      "linked data"
+    ]
+  },
+  {
+    "id": "pub-057",
+    "title": "Weakly supervised approaches to author disambiguation in bibliographic data",
+    "year": 2020,
+    "doi": "10.1000/kaz-scopus.2020.1057",
+    "abstract": "Study 57 examines methods for author disambiguation in bibliographic data in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Journal of Machine Learning Research",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-007",
+        "name": "Rustem Abdrakhmanov",
+        "affiliation": "Kazakh-British Technical University"
+      }
+    ],
+    "keywords": [
+      "bibliometrics",
+      "linked data",
+      "RDF"
+    ]
+  },
+  {
+    "id": "pub-058",
+    "title": "Cross-lingual approaches to dataset discovery via linked open data",
+    "year": 2021,
+    "doi": "10.1000/kaz-scopus.2021.1058",
+    "abstract": "Study 58 examines methods for dataset discovery via linked open data in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Information Systems Frontiers",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      },
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      }
+    ],
+    "keywords": [
+      "linked data",
+      "RDF",
+      "SPARQL"
+    ]
+  },
+  {
+    "id": "pub-059",
+    "title": "Temporal approaches to reproducibility tracking in ML papers",
+    "year": 2022,
+    "doi": "10.1000/kaz-scopus.2022.1059",
+    "abstract": "Study 59 examines methods for reproducibility tracking in ML papers in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "ACM Conference on Knowledge Discovery",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-009",
+        "name": "Timur Suleimenov",
+        "affiliation": "Nazarbayev University"
+      },
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      }
+    ],
+    "keywords": [
+      "RDF",
+      "SPARQL",
+      "scientific publications"
+    ]
+  },
+  {
+    "id": "pub-060",
+    "title": "Multi-modal approaches to survey summarization with LLMs",
+    "year": 2023,
+    "doi": "10.1000/kaz-scopus.2023.1060",
+    "abstract": "Study 60 examines methods for survey summarization with LLMs in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Data & Knowledge Engineering",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      },
+      {
+        "id": "auth-007",
+        "name": "Rustem Abdrakhmanov",
+        "affiliation": "Kazakh-British Technical University"
+      }
+    ],
+    "keywords": [
+      "SPARQL",
+      "scientific publications",
+      "Scopus"
+    ]
+  },
+  {
+    "id": "pub-061",
+    "title": "Graph-based approaches to metadata harmonization for research repositories",
+    "year": 2024,
+    "doi": "10.1000/kaz-scopus.2024.1061",
+    "abstract": "Study 61 examines methods for metadata harmonization for research repositories in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "International Journal of Digital Libraries",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-001",
+        "name": "Aigerim Nurgalieva",
+        "affiliation": "Kazakh National University"
+      },
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      }
+    ],
+    "keywords": [
+      "ontology",
+      "knowledge graph",
+      "metadata"
+    ]
+  },
+  {
+    "id": "pub-062",
+    "title": "Neural approaches to entity linking in scholarly text",
+    "year": 2025,
+    "doi": "10.1000/kaz-scopus.2025.1062",
+    "abstract": "Study 62 examines methods for entity linking in scholarly text in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Workshop on Knowledge Graphs in Science",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      },
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      }
+    ],
+    "keywords": [
+      "knowledge graph",
+      "metadata",
+      "semantic web"
+    ]
+  },
+  {
+    "id": "pub-063",
+    "title": "Ontology-driven approaches to citation network analysis",
+    "year": 2026,
+    "doi": "10.1000/kaz-scopus.2026.1063",
+    "abstract": "Study 63 examines methods for citation network analysis in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Computational Linguistics and AI Review",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-003",
+        "name": "Madi Rysbek",
+        "affiliation": "Nazarbayev University"
+      }
+    ],
+    "keywords": [
+      "metadata",
+      "semantic web",
+      "NLP"
+    ]
+  },
+  {
+    "id": "pub-064",
+    "title": "Scalable approaches to topic modeling with domain ontologies",
+    "year": 2018,
+    "doi": "10.1000/kaz-scopus.2018.1064",
+    "abstract": "Study 64 examines methods for topic modeling with domain ontologies in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Central Asian Journal of Computer Science",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      },
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      }
+    ],
+    "keywords": [
+      "semantic web",
+      "NLP",
+      "machine learning"
+    ]
+  },
+  {
+    "id": "pub-065",
+    "title": "Federated approaches to knowledge graph construction from abstracts",
+    "year": 2019,
+    "doi": "10.1000/kaz-scopus.2019.1065",
+    "abstract": "Study 65 examines methods for knowledge graph construction from abstracts in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Proceedings of IEEE BigData",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-005",
+        "name": "Yerlan Akhmetov",
+        "affiliation": "Satbayev University"
+      },
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      },
+      {
+        "id": "auth-009",
+        "name": "Timur Suleimenov",
+        "affiliation": "Nazarbayev University"
+      }
+    ],
+    "keywords": [
+      "NLP",
+      "machine learning",
+      "information retrieval"
+    ]
+  },
+  {
+    "id": "pub-066",
+    "title": "Explainable approaches to semantic search over publication corpora",
+    "year": 2020,
+    "doi": "10.1000/kaz-scopus.2020.1066",
+    "abstract": "Study 66 examines methods for semantic search over publication corpora in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Semantic Web Journal",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      }
+    ],
+    "keywords": [
+      "machine learning",
+      "information retrieval",
+      "digital libraries"
+    ]
+  },
+  {
+    "id": "pub-067",
+    "title": "Weakly supervised approaches to author disambiguation in bibliographic data",
+    "year": 2021,
+    "doi": "10.1000/kaz-scopus.2021.1067",
+    "abstract": "Study 67 examines methods for author disambiguation in bibliographic data in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Journal of Machine Learning Research",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-007",
+        "name": "Rustem Abdrakhmanov",
+        "affiliation": "Kazakh-British Technical University"
+      },
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      }
+    ],
+    "keywords": [
+      "information retrieval",
+      "digital libraries",
+      "bibliometrics"
+    ]
+  },
+  {
+    "id": "pub-068",
+    "title": "Cross-lingual approaches to dataset discovery via linked open data",
+    "year": 2022,
+    "doi": "10.1000/kaz-scopus.2022.1068",
+    "abstract": "Study 68 examines methods for dataset discovery via linked open data in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Information Systems Frontiers",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      },
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      }
+    ],
+    "keywords": [
+      "digital libraries",
+      "bibliometrics",
+      "linked data"
+    ]
+  },
+  {
+    "id": "pub-069",
+    "title": "Temporal approaches to reproducibility tracking in ML papers",
+    "year": 2023,
+    "doi": "10.1000/kaz-scopus.2023.1069",
+    "abstract": "Study 69 examines methods for reproducibility tracking in ML papers in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "ACM Conference on Knowledge Discovery",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-009",
+        "name": "Timur Suleimenov",
+        "affiliation": "Nazarbayev University"
+      }
+    ],
+    "keywords": [
+      "bibliometrics",
+      "linked data",
+      "RDF"
+    ]
+  },
+  {
+    "id": "pub-070",
+    "title": "Multi-modal approaches to survey summarization with LLMs",
+    "year": 2024,
+    "doi": "10.1000/kaz-scopus.2024.1070",
+    "abstract": "Study 70 examines methods for survey summarization with LLMs in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Data & Knowledge Engineering",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      },
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      },
+      {
+        "id": "auth-005",
+        "name": "Yerlan Akhmetov",
+        "affiliation": "Satbayev University"
+      }
+    ],
+    "keywords": [
+      "linked data",
+      "RDF",
+      "SPARQL"
+    ]
+  },
+  {
+    "id": "pub-071",
+    "title": "Graph-based approaches to metadata harmonization for research repositories",
+    "year": 2025,
+    "doi": "10.1000/kaz-scopus.2025.1071",
+    "abstract": "Study 71 examines methods for metadata harmonization for research repositories in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "International Journal of Digital Libraries",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-001",
+        "name": "Aigerim Nurgalieva",
+        "affiliation": "Kazakh National University"
+      },
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      }
+    ],
+    "keywords": [
+      "RDF",
+      "SPARQL",
+      "scientific publications"
+    ]
+  },
+  {
+    "id": "pub-072",
+    "title": "Neural approaches to entity linking in scholarly text",
+    "year": 2026,
+    "doi": "10.1000/kaz-scopus.2026.1072",
+    "abstract": "Study 72 examines methods for entity linking in scholarly text in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Workshop on Knowledge Graphs in Science",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      }
+    ],
+    "keywords": [
+      "SPARQL",
+      "scientific publications",
+      "Scopus"
+    ]
+  },
+  {
+    "id": "pub-073",
+    "title": "Ontology-driven approaches to citation network analysis",
+    "year": 2018,
+    "doi": "10.1000/kaz-scopus.2018.1073",
+    "abstract": "Study 73 examines methods for citation network analysis in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Computational Linguistics and AI Review",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-003",
+        "name": "Madi Rysbek",
+        "affiliation": "Nazarbayev University"
+      },
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      }
+    ],
+    "keywords": [
+      "ontology",
+      "knowledge graph",
+      "metadata"
+    ]
+  },
+  {
+    "id": "pub-074",
+    "title": "Scalable approaches to topic modeling with domain ontologies",
+    "year": 2019,
+    "doi": "10.1000/kaz-scopus.2019.1074",
+    "abstract": "Study 74 examines methods for topic modeling with domain ontologies in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Central Asian Journal of Computer Science",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      },
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      }
+    ],
+    "keywords": [
+      "knowledge graph",
+      "metadata",
+      "semantic web"
+    ]
+  },
+  {
+    "id": "pub-075",
+    "title": "Federated approaches to knowledge graph construction from abstracts",
+    "year": 2020,
+    "doi": "10.1000/kaz-scopus.2020.1075",
+    "abstract": "Study 75 examines methods for knowledge graph construction from abstracts in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Proceedings of IEEE BigData",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-005",
+        "name": "Yerlan Akhmetov",
+        "affiliation": "Satbayev University"
+      },
+      {
+        "id": "auth-001",
+        "name": "Aigerim Nurgalieva",
+        "affiliation": "Kazakh National University"
+      }
+    ],
+    "keywords": [
+      "metadata",
+      "semantic web",
+      "NLP"
+    ]
+  },
+  {
+    "id": "pub-076",
+    "title": "Explainable approaches to semantic search over publication corpora",
+    "year": 2021,
+    "doi": "10.1000/kaz-scopus.2021.1076",
+    "abstract": "Study 76 examines methods for semantic search over publication corpora in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Semantic Web Journal",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      },
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      }
+    ],
+    "keywords": [
+      "semantic web",
+      "NLP",
+      "machine learning"
+    ]
+  },
+  {
+    "id": "pub-077",
+    "title": "Weakly supervised approaches to author disambiguation in bibliographic data",
+    "year": 2022,
+    "doi": "10.1000/kaz-scopus.2022.1077",
+    "abstract": "Study 77 examines methods for author disambiguation in bibliographic data in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Journal of Machine Learning Research",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-007",
+        "name": "Rustem Abdrakhmanov",
+        "affiliation": "Kazakh-British Technical University"
+      },
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      }
+    ],
+    "keywords": [
+      "NLP",
+      "machine learning",
+      "information retrieval"
+    ]
+  },
+  {
+    "id": "pub-078",
+    "title": "Cross-lingual approaches to dataset discovery via linked open data",
+    "year": 2023,
+    "doi": "10.1000/kaz-scopus.2023.1078",
+    "abstract": "Study 78 examines methods for dataset discovery via linked open data in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Information Systems Frontiers",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      }
+    ],
+    "keywords": [
+      "machine learning",
+      "information retrieval",
+      "digital libraries"
+    ]
+  },
+  {
+    "id": "pub-079",
+    "title": "Temporal approaches to reproducibility tracking in ML papers",
+    "year": 2024,
+    "doi": "10.1000/kaz-scopus.2024.1079",
+    "abstract": "Study 79 examines methods for reproducibility tracking in ML papers in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "ACM Conference on Knowledge Discovery",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-009",
+        "name": "Timur Suleimenov",
+        "affiliation": "Nazarbayev University"
+      },
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      }
+    ],
+    "keywords": [
+      "information retrieval",
+      "digital libraries",
+      "bibliometrics"
+    ]
+  },
+  {
+    "id": "pub-080",
+    "title": "Multi-modal approaches to survey summarization with LLMs",
+    "year": 2025,
+    "doi": "10.1000/kaz-scopus.2025.1080",
+    "abstract": "Study 80 examines methods for survey summarization with LLMs in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Data & Knowledge Engineering",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      },
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      },
+      {
+        "id": "auth-007",
+        "name": "Rustem Abdrakhmanov",
+        "affiliation": "Kazakh-British Technical University"
+      }
+    ],
+    "keywords": [
+      "digital libraries",
+      "bibliometrics",
+      "linked data"
+    ]
+  },
+  {
+    "id": "pub-081",
+    "title": "Graph-based approaches to metadata harmonization for research repositories",
+    "year": 2026,
+    "doi": "10.1000/kaz-scopus.2026.1081",
+    "abstract": "Study 81 examines methods for metadata harmonization for research repositories in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "International Journal of Digital Libraries",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-001",
+        "name": "Aigerim Nurgalieva",
+        "affiliation": "Kazakh National University"
+      }
+    ],
+    "keywords": [
+      "bibliometrics",
+      "linked data",
+      "RDF"
+    ]
+  },
+  {
+    "id": "pub-082",
+    "title": "Neural approaches to entity linking in scholarly text",
+    "year": 2018,
+    "doi": "10.1000/kaz-scopus.2018.1082",
+    "abstract": "Study 82 examines methods for entity linking in scholarly text in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Workshop on Knowledge Graphs in Science",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      },
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      }
+    ],
+    "keywords": [
+      "linked data",
+      "RDF",
+      "SPARQL"
+    ]
+  },
+  {
+    "id": "pub-083",
+    "title": "Ontology-driven approaches to citation network analysis",
+    "year": 2019,
+    "doi": "10.1000/kaz-scopus.2019.1083",
+    "abstract": "Study 83 examines methods for citation network analysis in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Computational Linguistics and AI Review",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-003",
+        "name": "Madi Rysbek",
+        "affiliation": "Nazarbayev University"
+      },
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      }
+    ],
+    "keywords": [
+      "RDF",
+      "SPARQL",
+      "scientific publications"
+    ]
+  },
+  {
+    "id": "pub-084",
+    "title": "Scalable approaches to topic modeling with domain ontologies",
+    "year": 2020,
+    "doi": "10.1000/kaz-scopus.2020.1084",
+    "abstract": "Study 84 examines methods for topic modeling with domain ontologies in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Central Asian Journal of Computer Science",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      }
+    ],
+    "keywords": [
+      "SPARQL",
+      "scientific publications",
+      "Scopus"
+    ]
+  },
+  {
+    "id": "pub-085",
+    "title": "Federated approaches to knowledge graph construction from abstracts",
+    "year": 2021,
+    "doi": "10.1000/kaz-scopus.2021.1085",
+    "abstract": "Study 85 examines methods for knowledge graph construction from abstracts in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Proceedings of IEEE BigData",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-005",
+        "name": "Yerlan Akhmetov",
+        "affiliation": "Satbayev University"
+      },
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      },
+      {
+        "id": "auth-009",
+        "name": "Timur Suleimenov",
+        "affiliation": "Nazarbayev University"
+      }
+    ],
+    "keywords": [
+      "ontology",
+      "knowledge graph",
+      "metadata"
+    ]
+  },
+  {
+    "id": "pub-086",
+    "title": "Explainable approaches to semantic search over publication corpora",
+    "year": 2022,
+    "doi": "10.1000/kaz-scopus.2022.1086",
+    "abstract": "Study 86 examines methods for semantic search over publication corpora in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Semantic Web Journal",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      },
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      }
+    ],
+    "keywords": [
+      "knowledge graph",
+      "metadata",
+      "semantic web"
+    ]
+  },
+  {
+    "id": "pub-087",
+    "title": "Weakly supervised approaches to author disambiguation in bibliographic data",
+    "year": 2023,
+    "doi": "10.1000/kaz-scopus.2023.1087",
+    "abstract": "Study 87 examines methods for author disambiguation in bibliographic data in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Journal of Machine Learning Research",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-007",
+        "name": "Rustem Abdrakhmanov",
+        "affiliation": "Kazakh-British Technical University"
+      }
+    ],
+    "keywords": [
+      "metadata",
+      "semantic web",
+      "NLP"
+    ]
+  },
+  {
+    "id": "pub-088",
+    "title": "Cross-lingual approaches to dataset discovery via linked open data",
+    "year": 2024,
+    "doi": "10.1000/kaz-scopus.2024.1088",
+    "abstract": "Study 88 examines methods for dataset discovery via linked open data in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Information Systems Frontiers",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      },
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      }
+    ],
+    "keywords": [
+      "semantic web",
+      "NLP",
+      "machine learning"
+    ]
+  },
+  {
+    "id": "pub-089",
+    "title": "Temporal approaches to reproducibility tracking in ML papers",
+    "year": 2025,
+    "doi": "10.1000/kaz-scopus.2025.1089",
+    "abstract": "Study 89 examines methods for reproducibility tracking in ML papers in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "ACM Conference on Knowledge Discovery",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-009",
+        "name": "Timur Suleimenov",
+        "affiliation": "Nazarbayev University"
+      },
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      }
+    ],
+    "keywords": [
+      "NLP",
+      "machine learning",
+      "information retrieval"
+    ]
+  },
+  {
+    "id": "pub-090",
+    "title": "Multi-modal approaches to survey summarization with LLMs",
+    "year": 2026,
+    "doi": "10.1000/kaz-scopus.2026.1090",
+    "abstract": "Study 90 examines methods for survey summarization with LLMs in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Data & Knowledge Engineering",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      },
+      {
+        "id": "auth-005",
+        "name": "Yerlan Akhmetov",
+        "affiliation": "Satbayev University"
+      }
+    ],
+    "keywords": [
+      "machine learning",
+      "information retrieval",
+      "digital libraries"
+    ]
+  },
+  {
+    "id": "pub-091",
+    "title": "Graph-based approaches to metadata harmonization for research repositories",
+    "year": 2018,
+    "doi": "10.1000/kaz-scopus.2018.1091",
+    "abstract": "Study 91 examines methods for metadata harmonization for research repositories in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "International Journal of Digital Libraries",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-001",
+        "name": "Aigerim Nurgalieva",
+        "affiliation": "Kazakh National University"
+      },
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      }
+    ],
+    "keywords": [
+      "information retrieval",
+      "digital libraries",
+      "bibliometrics"
+    ]
+  },
+  {
+    "id": "pub-092",
+    "title": "Neural approaches to entity linking in scholarly text",
+    "year": 2019,
+    "doi": "10.1000/kaz-scopus.2019.1092",
+    "abstract": "Study 92 examines methods for entity linking in scholarly text in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Workshop on Knowledge Graphs in Science",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      },
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      }
+    ],
+    "keywords": [
+      "digital libraries",
+      "bibliometrics",
+      "linked data"
+    ]
+  },
+  {
+    "id": "pub-093",
+    "title": "Ontology-driven approaches to citation network analysis",
+    "year": 2020,
+    "doi": "10.1000/kaz-scopus.2020.1093",
+    "abstract": "Study 93 examines methods for citation network analysis in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Computational Linguistics and AI Review",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-003",
+        "name": "Madi Rysbek",
+        "affiliation": "Nazarbayev University"
+      }
+    ],
+    "keywords": [
+      "bibliometrics",
+      "linked data",
+      "RDF"
+    ]
+  },
+  {
+    "id": "pub-094",
+    "title": "Scalable approaches to topic modeling with domain ontologies",
+    "year": 2021,
+    "doi": "10.1000/kaz-scopus.2021.1094",
+    "abstract": "Study 94 examines methods for topic modeling with domain ontologies in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Central Asian Journal of Computer Science",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-004",
+        "name": "Saule Kenzhebek",
+        "affiliation": "Al-Farabi KazNU"
+      },
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      }
+    ],
+    "keywords": [
+      "linked data",
+      "RDF",
+      "SPARQL"
+    ]
+  },
+  {
+    "id": "pub-095",
+    "title": "Federated approaches to knowledge graph construction from abstracts",
+    "year": 2022,
+    "doi": "10.1000/kaz-scopus.2022.1095",
+    "abstract": "Study 95 examines methods for knowledge graph construction from abstracts in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Proceedings of IEEE BigData",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-005",
+        "name": "Yerlan Akhmetov",
+        "affiliation": "Satbayev University"
+      },
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      },
+      {
+        "id": "auth-001",
+        "name": "Aigerim Nurgalieva",
+        "affiliation": "Kazakh National University"
+      }
+    ],
+    "keywords": [
+      "RDF",
+      "SPARQL",
+      "scientific publications"
+    ]
+  },
+  {
+    "id": "pub-096",
+    "title": "Explainable approaches to semantic search over publication corpora",
+    "year": 2023,
+    "doi": "10.1000/kaz-scopus.2023.1096",
+    "abstract": "Study 96 examines methods for semantic search over publication corpora in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Semantic Web Journal",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      }
+    ],
+    "keywords": [
+      "SPARQL",
+      "scientific publications",
+      "Scopus"
+    ]
+  },
+  {
+    "id": "pub-097",
+    "title": "Weakly supervised approaches to author disambiguation in bibliographic data",
+    "year": 2024,
+    "doi": "10.1000/kaz-scopus.2024.1097",
+    "abstract": "Study 97 examines methods for author disambiguation in bibliographic data in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Journal of Machine Learning Research",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-007",
+        "name": "Rustem Abdrakhmanov",
+        "affiliation": "Kazakh-British Technical University"
+      },
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      }
+    ],
+    "keywords": [
+      "ontology",
+      "knowledge graph",
+      "metadata"
+    ]
+  },
+  {
+    "id": "pub-098",
+    "title": "Cross-lingual approaches to dataset discovery via linked open data",
+    "year": 2025,
+    "doi": "10.1000/kaz-scopus.2025.1098",
+    "abstract": "Study 98 examines methods for dataset discovery via linked open data in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Information Systems Frontiers",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-008",
+        "name": "Gulmira Mukhanova",
+        "affiliation": "Karaganda Technical University"
+      },
+      {
+        "id": "auth-002",
+        "name": "Daniyar Toleubay",
+        "affiliation": "Astana IT University"
+      }
+    ],
+    "keywords": [
+      "knowledge graph",
+      "metadata",
+      "semantic web"
+    ]
+  },
+  {
+    "id": "pub-099",
+    "title": "Temporal approaches to reproducibility tracking in ML papers",
+    "year": 2026,
+    "doi": "10.1000/kaz-scopus.2026.1099",
+    "abstract": "Study 99 examines methods for reproducibility tracking in ML papers in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "ACM Conference on Knowledge Discovery",
+      "type": "conference"
+    },
+    "authors": [
+      {
+        "id": "auth-009",
+        "name": "Timur Suleimenov",
+        "affiliation": "Nazarbayev University"
+      }
+    ],
+    "keywords": [
+      "metadata",
+      "semantic web",
+      "NLP"
+    ]
+  },
+  {
+    "id": "pub-100",
+    "title": "Multi-modal approaches to survey summarization with LLMs",
+    "year": 2018,
+    "doi": "10.1000/kaz-scopus.2018.1100",
+    "abstract": "Study 100 examines methods for survey summarization with LLMs in Central Asian and global scholarly datasets, with evaluation on benchmark retrieval tasks.",
+    "venue": {
+      "name": "Data & Knowledge Engineering",
+      "type": "journal"
+    },
+    "authors": [
+      {
+        "id": "auth-010",
+        "name": "Zarina Bekturova",
+        "affiliation": "Astana Medical University"
+      },
+      {
+        "id": "auth-006",
+        "name": "Ainur Omarova",
+        "affiliation": "Eurasian National University"
+      },
+      {
+        "id": "auth-007",
+        "name": "Rustem Abdrakhmanov",
+        "affiliation": "Kazakh-British Technical University"
+      }
+    ],
+    "keywords": [
+      "semantic web",
+      "NLP",
+      "machine learning"
+    ]
+  }
+]

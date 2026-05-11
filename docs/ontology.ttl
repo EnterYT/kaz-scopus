@@ -1,0 +1,38 @@
+@prefix onto: <http://example.org/science-onto#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+onto:Publication a rdfs:Class .
+onto:Author a rdfs:Class .
+onto:Venue a rdfs:Class .
+onto:Keyword a rdfs:Class .
+onto:Affiliation a rdfs:Class .
+
+onto:hasAuthor a rdf:Property ;
+  rdfs:domain onto:Publication ;
+  rdfs:range onto:Author .
+
+onto:publishedIn a rdf:Property ;
+  rdfs:domain onto:Publication ;
+  rdfs:range onto:Venue .
+
+onto:hasKeyword a rdf:Property ;
+  rdfs:domain onto:Publication ;
+  rdfs:range onto:Keyword .
+
+onto:hasAffiliation a rdf:Property ;
+  rdfs:domain onto:Author ;
+  rdfs:range onto:Affiliation .
+
+onto:title a rdf:Property ;
+  rdfs:domain onto:Publication ;
+  rdfs:range xsd:string .
+
+onto:year a rdf:Property ;
+  rdfs:domain onto:Publication ;
+  rdfs:range xsd:gYear .
+
+onto:doi a rdf:Property ;
+  rdfs:domain onto:Publication ;
+  rdfs:range xsd:string .
